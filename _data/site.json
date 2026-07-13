@@ -1,15 +1,44 @@
 {
-	"name": "",
-	"url": "https://example.chobble.com",
+	"name": "GFC Muay Thai",
+	"tagline": "Bury's Number One Muay Thai Gym",
+	"url": "https://www.gfcmuaythai.co.uk",
+	"logo": "/images/logo.png",
+	"description": "One of the North West's longest running and most sucessful Muay Thai gyms. We serve all levels of student, from kids, to adult beginners to experienced fighters.",
+	"phone": "07931 239316",
+	"phone_link": "tel:07931239316",
+	"email": "luke@gfcmuaythai.co.uk",
+	"location": "1A Bright Street Mill, Bury, BL9 6AQ",
 	"socials": {
-		"Facebook": null,
-		"Instagram": "https://www.instagram.com/chobbledotcom/",
-		"TikTok": null,
+		"Facebook": "https://www.facebook.com/GFCMuayThai",
+		"Instagram": "https://www.instagram.com/gfcmuaythai/",
+		"TikTok": "https://www.tiktok.com/@gfcmuaythai",
 		"Google": null,
+		"YouTube": "https://www.youtube.com/channel/UCVcqYJBRCCyFaMAJtdvJWOA",
 		"WhatsApp": null,
 		"RSS": "/feed.xml"
 	},
 	"sticky_mobile_nav": true,
 	"horizontal_nav": true,
-	"template_repo_url": "https://git.chobble.com/chobble/chobble-client"
+	"template_repo_url": "https://git.chobble.com/chobble/chobble-client",
+	"cms_config": {
+		"collections": ["pages", "team", "news", "reviews"],
+		"features": {
+			"permalinks": true,
+			"redirects": true,
+			"faqs": true,
+			"galleries": false,
+			"external_navigation_urls": false,
+			"use_visual_editor": true,
+			"features": false,
+			"external_purchases": false,
+			"add_ons": false,
+			"event_locations_and_dates": false,
+			"no_index": true,
+			"keywords": false,
+			"parent_categories": false
+		},
+		"hasSrcFolder": false,
+		"customHomePage": false,
+		"customBlocksCollections": []
+	}
 }

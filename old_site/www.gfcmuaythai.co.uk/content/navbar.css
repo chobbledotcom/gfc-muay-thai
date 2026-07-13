@@ -1,0 +1,30 @@
+﻿
+
+.bg-menu {
+    /*background-color: #21409A !important;*/
+    background-color: #000 !important;
+}
+
+.nav-link {
+    color: #fff !important;
+    font-weight: bold;
+}
+
+.dropdown-item {
+    color: #000000 !important;
+}
+
+.navbar {
+    margin: 0;
+    font-size: 12px;
+}
+
+.navbar-toggler {
+background-color: #ffffff !important;
+  
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 1rem;
+    padding-left: 1rem;
+}

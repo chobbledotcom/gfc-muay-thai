@@ -1,0 +1,391 @@
+﻿body {
+    /*padding-bottom: 20px;*/
+    font-family: EXO;
+    color: #000;
+    font-size: 10px;
+}
+
+
+.bg-cover {
+    background-image: url('../images/bg-banner-1.jpg');
+    background-size: cover; /* Ensures the image covers the entire container */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents repetition */
+    height: 850px; /* Full viewport height */
+}
+
+@media (max-width: 768px) {
+    .bg-cover {
+        background-position: top;
+    }
+}
+
+
+
+
+
+
+
+html section.section-dark {
+    background-color: #2e353e !important;
+    border-color: #23282f !important;
+}
+
+.blink_me {
+    -webkit-animation: blinker 1s linear infinite;
+    -moz-animation: blinker 1s linear infinite;
+    -ms-animation: blinker 1s linear infinite;
+    -o-animation: blinker 1s linear infinite;
+    animation: blinker 1s linear infinite;
+    font-weight: bold;
+}
+
+@-moz-keyframes blinker {
+    50% {
+        opacity: 0;
+    }
+}
+
+@-webkit-keyframes blinker {
+    50% {
+        opacity: 0;
+    }
+}
+
+@keyframes blinker {
+    50% {
+        opacity: 0;
+    }
+}
+
+td {
+    vertical-align: middle !important;
+}
+
+th {
+    vertical-align: middle !important;
+}
+
+
+
+
+.blink_me_2 {
+    -webkit-animation: blinker 2s linear infinite;
+    -moz-animation: blinker 2s linear infinite;
+    -ms-animation: blinker 2s linear infinite;
+    -o-animation: blinker 2s linear infinite;
+    animation: blinker 2s linear infinite;
+}
+
+/* Font Size */
+.text-1 {
+    font-size: .8em !important;
+}
+
+.text-2 {
+    font-size: .9em !important;
+}
+
+.text-3 {
+    font-size: 1em !important;
+}
+
+.text-4 {
+    font-size: 1.2em !important;
+}
+
+.text-5 {
+    font-size: 1.50em !important;
+}
+
+.text-6 {
+    font-size: 1.80em !important;
+}
+
+.text-7 {
+    font-size: 2em !important;
+}
+
+.text-8 {
+    font-size: 2.30em !important;
+}
+
+.text-9 {
+    font-size: 2.50em !important;
+}
+
+.text-10 {
+    font-size: 2.75em !important;
+}
+
+.text-11 {
+    font-size: 3em !important;
+}
+
+.text-12 {
+    font-size: 3.5em !important;
+}
+
+.text-13 {
+    font-size: 4em !important;
+}
+
+.text-14 {
+    font-size: 4.5em !important;
+}
+
+.text-15 {
+    font-size: 5em !important;
+}
+
+@media (min-width: 576px) {
+    .text-sm-1 {
+        font-size: .8em !important;
+    }
+
+    .text-sm-2 {
+        font-size: .9em !important;
+    }
+
+    .text-sm-3 {
+        font-size: 1em !important;
+    }
+
+    .text-sm-4 {
+        font-size: 1.2em !important;
+    }
+
+    .text-sm-5 {
+        font-size: 1.50em !important;
+    }
+
+    .text-sm-6 {
+        font-size: 1.80em !important;
+    }
+
+    .text-sm-7 {
+        font-size: 2em !important;
+    }
+
+    .text-sm-8 {
+        font-size: 2.30em !important;
+    }
+
+    .text-sm-9 {
+        font-size: 2.50em !important;
+    }
+
+    .text-sm-10 {
+        font-size: 2.75em !important;
+    }
+
+    .text-sm-11 {
+        font-size: 3em !important;
+    }
+
+    .text-sm-12 {
+        font-size: 3.5em !important;
+    }
+
+    .text-sm-13 {
+        font-size: 4em !important;
+    }
+
+    .text-sm-14 {
+        font-size: 4.5em !important;
+    }
+
+    .text-sm-15 {
+        font-size: 5em !important;
+    }
+}
+
+@media (min-width: 768px) {
+    .text-md-1 {
+        font-size: .8em !important;
+    }
+
+    .text-md-2 {
+        font-size: .9em !important;
+    }
+
+    .text-md-3 {
+        font-size: 1em !important;
+    }
+
+    .text-md-4 {
+        font-size: 1.2em !important;
+    }
+
+    .text-md-5 {
+        font-size: 1.50em !important;
+    }
+
+    .text-md-6 {
+        font-size: 1.80em !important;
+    }
+
+    .text-md-7 {
+        font-size: 2em !important;
+    }
+
+    .text-md-8 {
+        font-size: 2.30em !important;
+    }
+
+    .text-md-9 {
+        font-size: 2.50em !important;
+    }
+
+    .text-md-10 {
+        font-size: 2.75em !important;
+    }
+
+    .text-md-11 {
+        font-size: 3em !important;
+    }
+
+    .text-md-12 {
+        font-size: 3.5em !important;
+    }
+
+    .text-md-13 {
+        font-size: 4em !important;
+    }
+
+    .text-md-14 {
+        font-size: 4.5em !important;
+    }
+
+    .text-md-15 {
+        font-size: 5em !important;
+    }
+}
+
+@media (min-width: 992px) {
+    .text-lg-1 {
+        font-size: .8em !important;
+    }
+
+    .text-lg-2 {
+        font-size: .9em !important;
+    }
+
+    .text-lg-3 {
+        font-size: 1em !important;
+    }
+
+    .text-lg-4 {
+        font-size: 1.2em !important;
+    }
+
+    .text-lg-5 {
+        font-size: 1.50em !important;
+    }
+
+    .text-lg-6 {
+        font-size: 1.80em !important;
+    }
+
+    .text-lg-7 {
+        font-size: 2em !important;
+    }
+
+    .text-lg-8 {
+        font-size: 2.30em !important;
+    }
+
+    .text-lg-9 {
+        font-size: 2.50em !important;
+    }
+
+    .text-lg-10 {
+        font-size: 2.75em !important;
+    }
+
+    .text-lg-11 {
+        font-size: 3em !important;
+    }
+
+    .text-lg-12 {
+        font-size: 3.5em !important;
+    }
+
+    .text-lg-13 {
+        font-size: 4em !important;
+    }
+
+    .text-lg-14 {
+        font-size: 4.5em !important;
+    }
+
+    .text-lg-15 {
+        font-size: 5em !important;
+    }
+}
+
+@media (min-width: 1200px) {
+    .text-xl-1 {
+        font-size: .8em !important;
+    }
+
+    .text-xl-2 {
+        font-size: .9em !important;
+    }
+
+    .text-xl-3 {
+        font-size: 1em !important;
+    }
+
+    .text-xl-4 {
+        font-size: 1.2em !important;
+    }
+
+    .text-xl-5 {
+        font-size: 1.50em !important;
+    }
+
+    .text-xl-6 {
+        font-size: 1.80em !important;
+    }
+
+    .text-xl-7 {
+        font-size: 2em !important;
+    }
+
+    .text-xl-8 {
+        font-size: 2.30em !important;
+    }
+
+    .text-xl-9 {
+        font-size: 2.50em !important;
+    }
+
+    .text-xl-10 {
+        font-size: 2.75em !important;
+    }
+
+    .text-xl-11 {
+        font-size: 3em !important;
+    }
+
+    .text-xl-12 {
+        font-size: 3.5em !important;
+    }
+
+    .text-xl-13 {
+        font-size: 4em !important;
+    }
+
+    .text-xl-14 {
+        font-size: 4.5em !important;
+    }
+
+    .text-xl-15 {
+        font-size: 5em !important;
+    }
+}
+
+
+
+

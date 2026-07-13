@@ -1,0 +1,27 @@
+{
+  "dir": "ltr",
+  "lang": "en",
+  "name": "GFC",
+  "scope": "/",
+  "display": "standalone",
+  "start_url": "https://www.gfcmuaythai.co.uk",
+  "short_name": "GFC-website",
+  "theme_color": "#FFFFFF",
+  "description": "GFC",
+  "orientation": "any",
+  "background_color": "#FFFFFF",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "images/192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "url": "https://www.gfcmuaythai.co.uk"
+}
