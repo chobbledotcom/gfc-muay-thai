@@ -8,11 +8,10 @@ eleventyNavigation:
   key: Our team
   order: 4
 blocks:
-  - type: section-header
-    intro: |
-      # Our team
   - type: items
     collection: team
+    intro_content: |
+      # Our team
     image_aspect_ratio: "4/3"
   - type: cta
     content: |

@@ -9,10 +9,9 @@ eleventyNavigation:
   key: Blogs
   order: 6
 blocks:
-  - type: section-header
-    intro: |
-      # Our news/blogs
   - type: items
     collection: news
+    intro_content: |
+      # Our news/blogs
     image_aspect_ratio: "4/3"
 ---

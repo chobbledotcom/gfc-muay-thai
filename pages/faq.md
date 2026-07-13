@@ -6,10 +6,9 @@ eleventyNavigation:
   key: FAQ's
   order: 8
 blocks:
-  - type: section-header
-    intro: |
-      ## Frequently Asked Questions
   - type: faqs
+    intro_content: |
+      ## Frequently Asked Questions
     items:
       - question: Who can do Muay Thai?
         answer: Muay Thai is suitable for all ages, skill levels, and physical fitness levels.

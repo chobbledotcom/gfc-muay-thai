@@ -6,10 +6,10 @@ eleventyNavigation:
   key: Reviews
   order: 7
 blocks:
-  - type: section-header
-    intro: |
+  - type: items
+    collection: reviews
+    intro_content: |
       # What others say about us
 
       Please read review of our members what they have to say abou us
-  - type: reviews
 ---

@@ -22,11 +22,9 @@ blocks:
         variant: primary
         size: lg
 
-  - type: section-header
-    intro: |
-      ## We have classes for all age groups
-
   - type: image-cards
+    intro_content: |
+      ## We have classes for all age groups
     image_aspect_ratio: "16/9"
     items:
       - image: /images/beginners-course-may-2026.jpg
@@ -79,11 +77,10 @@ blocks:
       variant: secondary
       size: lg
 
-  - type: section-header
-    intro: |
+  - type: items
+    collection: reviews
+    intro_content: |
       ## What other say about us
-
-  - type: reviews
     horizontal: true
 
   - type: iframe-embed
