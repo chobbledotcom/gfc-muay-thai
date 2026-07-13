@@ -6,9 +6,14 @@ import { bun, fs, git, path } from "./utils.js";
 
 const rootExcludes = [
   ".git",
+  ".direnv",
   "*.nix",
+  "CLAUDE.md",
   "README.md",
+  "TODO.md",
   ".build",
+  "_site",
+  "screenshots",
   "scripts",
   "node_modules",
   "package.json",
