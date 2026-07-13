@@ -378,6 +378,7 @@ body.design-system {
   }
 
   .faqs {
+    gap: 0;
     width: min(100%, 52rem);
     margin-inline: auto;
 
@@ -397,6 +398,10 @@ body.design-system {
       border-left: 3px solid var(--color-link);
 
       background: var(--color-card-bg);
+    }
+
+    dd + dt {
+      margin-top: var(--space-md);
     }
   }
 
@@ -440,6 +445,10 @@ body.design-system {
 }
 
 .design-system > nav {
+  display: flex;
+  gap: clamp(1rem, 2vw, 2rem);
+  align-items: center;
+
   border: 1px solid #39332f;
   border-top: 2px solid var(--color-link);
   border-radius: 2px;
@@ -458,6 +467,9 @@ body.design-system {
     flex: 1;
     gap: 0 clamp(0.75rem, 1.35vw, 1.35rem);
     justify-content: flex-end;
+    order: 1;
+
+    min-width: 0;
   }
 
   a:not(.brand-lockup) {
@@ -471,27 +483,26 @@ body.design-system {
     }
 
     &.active {
+      margin-bottom: -0.35rem;
+      padding-bottom: 0.35rem;
+      border-bottom: 2px solid var(--color-link);
       color: #fff;
-
-      &::after {
-        content: "";
-
-        position: absolute;
-        right: 0;
-        bottom: -0.35rem;
-        left: 0;
-
-        height: 2px;
-
-        background: var(--color-link);
-      }
     }
+  }
+
+  > ul > li:has(> ul a.active) > a:not(.brand-lockup) {
+    margin-bottom: -0.35rem;
+    padding-bottom: 0.35rem;
+    border-bottom: 2px solid var(--color-link);
+    color: #fff;
   }
 
   .brand-lockup {
     display: inline-flex;
     flex-shrink: 0;
     align-items: center;
+    order: 0;
+
     text-decoration: none;
 
     img {
@@ -539,6 +550,13 @@ body.design-system > footer {
 
   .image-wrapper {
     margin-inline: auto;
+  }
+}
+
+@include bp.up("md") {
+  body.design-system.horizontal-nav > nav {
+    flex-wrap: nowrap;
+    justify-content: space-between;
   }
 }
 
