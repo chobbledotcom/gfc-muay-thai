@@ -460,8 +460,16 @@ body.design-system {
   letter-spacing: 0.045em;
 
   background: rgb(13 12 11 / 94%);
-  backdrop-filter: blur(12px) saturate(125%);
   box-shadow: var(--shadow-md);
+
+  // `backdrop-filter` makes <nav> the containing block for its
+  // `position: fixed` descendants, which collapses the chobble-template's
+  // full-height mobile menu (`nav > ul`, `top: 3rem; bottom: 0`) down to the
+  // height of the bar. Only blur at desktop widths, where <nav> is not the
+  // fixed mobile bar.
+  @include bp.up("md") {
+    backdrop-filter: blur(12px) saturate(125%);
+  }
 
   > ul {
     flex: 1;
