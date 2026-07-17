@@ -2,7 +2,7 @@
 
 - [ ] Provide the Formspark form ID and Botpoison public key for the contact form.
 - [ ] Provide a portable AdminMyMembers URL for trial bookings. The live form uses a site-specific JavaScript postback rather than an external booking URL.
-- [ ] Confirm GFC's founding year. Current branding says 1996, while Darren's biography dates the predecessor gym at the current premises to 1986.
+- [ ] Confirm GFC's founding year. Current branding says 1996, while Darren's biography dates the predecessor club to 1983 and GFC to 1986.
 - [ ] Confirm the legal or schema name to use for the organisation.
 - [ ] Provide the public opening hours. The class timetable does not establish when the gym is otherwise open.
 - [ ] Provide the Terms & Conditions and Privacy Notice text.

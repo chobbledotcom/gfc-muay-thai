@@ -26,7 +26,7 @@ blocks:
 
       **Junior unlimited: £45 per month**
 
-      **Junior drop-in: £6 per class**
+      **Junior and teen drop-in: £7 per class, or £6 when paying cash at the gym**
     button:
       text: Explore junior classes
       href: /class/juniors/
@@ -50,7 +50,7 @@ blocks:
 
       **Adult unlimited: £65 per month**
 
-      **Adult drop-in: £10 per class**
+      **Adult drop-in: £11.50 per class, or £10 when paying cash at the gym**
     button:
       text: Explore adult classes
       href: /class/adults/

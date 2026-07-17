@@ -12,11 +12,11 @@ eleventyNavigation:
 blocks:
   - type: split-image
     compact: true
-    subtitle: Ages 6 to 15
+    subtitle: Juniors ages 6-11 and teens ages 12-15
     content: |
       # Junior Muay Thai
 
-      A high-energy introduction to Muay Thai where young people can build fitness, confidence and discipline in a positive, motivating environment.
+      Our junior and teen sessions give young people a high-energy introduction to Muay Thai while building fitness, confidence and discipline.
 
       Beginners learn the fundamentals properly, while experienced juniors keep progressing through more challenging technical work.
     button:

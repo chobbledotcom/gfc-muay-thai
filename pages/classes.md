@@ -17,11 +17,11 @@ blocks:
     items:
       - image: /images/junior-roundhouse-kick-padwork.jpg
         name: Juniors
-        description: High-energy Muay Thai for ages 6 to 15, built around fitness, confidence and discipline.
+        description: Junior classes for ages 6 to 11 and teen classes for ages 12 to 15, built around fitness, confidence and discipline.
         link: /class/juniors/
       - image: /images/adult-muay-thai-padwork.jpg
         name: Adults
-        description: Beginner-friendly training, with routes into sparring and fighter development for people aged 16 and over.
+        description: Beginner-friendly training, with routes into sparring and fighter development for people aged 15 and over.
         link: /class/adults/
       - image: /images/ladies-only-muay-thai.jpeg
         name: Ladies Only

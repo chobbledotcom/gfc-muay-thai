@@ -48,32 +48,34 @@ blocks:
     items:
       - name: Monday
         description: |
-          - **17:00-17:45:** Junior Muay Thai, ages 6-12
-          - **17:45-18:45:** Teens Muay Thai, ages 12-15
-          - **18:45-19:45:** All Levels Muay Thai, ages 15+
-          - **19:45-20:15:** Adult Advanced Extra, ages 15+
+          - **09:00-10:30:** Fighters Class, invite only
+          - **17:00-17:45:** Juniors, ages 6-11
+          - **17:45-18:45:** Teens All Levels, ages 12-15
+          - **19:00-20:15:** Adult All Levels, ages 15+
       - name: Tuesday
         description: |
-          - **17:15-18:45:** Junior and Teen Advanced, ages 6-15
-          - **18:45-20:00:** Intermediate Muay Thai, ages 15+
+          - **09:00-10:30:** Fighters Class, invite only
+          - **17:15-18:45:** Kids and Teens Advanced / Fighters, ages 6-15
+          - **18:45-20:00:** Adult Advanced Technical Class, ages 15+
           - **20:15-21:15:** Ladies-Only Muay Thai, ages 16+
       - name: Wednesday
         description: |
-          - **17:15-18:45:** Junior and Teen Advanced, ages 6-15
-          - **18:45-19:45:** All Levels Muay Thai, ages 15+
-          - **19:45-20:15:** Adult Advanced Extra, ages 15+
+          - **09:00-10:30:** Fighters Class, invite only
+          - **17:15-18:45:** Kids and Teens Advanced / Fighters, ages 6-15
+          - **18:45-20:00:** Adult All Levels, ages 15+
       - name: Thursday
         description: |
-          - **17:00-17:45:** Junior Muay Thai, ages 6-12
-          - **17:45-18:45:** Teens Muay Thai, ages 12-15
-          - **18:45-20:00:** Intermediate Muay Thai, ages 15+
-          - **20:00-21:00:** Beginner Muay Thai, ages 15+
+          - **09:00-10:30:** Fighters Class, invite only
+          - **17:00-17:45:** Juniors, ages 6-11
+          - **17:45-18:45:** Teens All Levels, ages 12-15
+          - **19:00-20:00:** Adult Beginners / Muay Thai Basics, ages 15+
+          - **20:00-20:30:** Freestyle Pad Work, ages 15+
       - name: Friday
         description: |
-          - **18:00-20:00:** Adult Sparring, ages 15+
+          - **09:00-10:30:** Fighters Class, invite only
       - name: Saturday
         description: |
-          - **10:00-11:00:** Adult Muay Thai Padwork, all levels, ages 15+
+          - **10:30-12:00:** Adult Sparring, ages 15+
 
   - type: cta
     content: |

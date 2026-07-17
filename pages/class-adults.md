@@ -11,7 +11,7 @@ eleventyNavigation:
 blocks:
   - type: split-image
     compact: true
-    subtitle: Ages 16 and over
+    subtitle: Ages 15 and over
     content: |
       # Adult Muay Thai
 

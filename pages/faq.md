@@ -25,22 +25,45 @@ blocks:
 
   - type: faqs
     intro_content: |
-      ## Frequently asked questions
+      ## Adult classes
     items:
-      - question: Who can train in Muay Thai?
-        answer: Muay Thai can suit a wide range of ages, abilities and fitness levels. See our timetable for the current age groups.
-      - question: What is Muay Thai?
-        answer: Muay Thai is a martial art from Thailand, also known as the "art of eight limbs". It is practised for self-defence and recreation, as well as in amateur and professional competitions.
+      - question: I have never done martial arts before. Can I still join?
+        answer: Yes. Most of our members start without any martial arts experience. Our Beginners and All Levels sessions teach the fundamentals from scratch, and we have multiple coaches on the mats to help when you need it.
+      - question: I have not exercised for a long time. Will I keep up?
+        answer: You can work at your own pace. We will not force you to match somebody who has trained for years. Start where you are, take breaks when needed and build your fitness through regular sessions.
+      - question: What happens in a typical adult session?
+        answer: We usually begin with a short warm-up, including jogging or skipping, light exercises and mobility or stretching. The main session mixes bag work, pad work and technical drills. We finish with stretching and may add a short fitness round at the end.
+      - question: I am nervous about coming on my own. What should I expect?
+        answer: Plenty of members arrive on their own for the first time. A coach will help you settle in, and we encourage experienced members to help people who are just starting. Nobody expects you to know what to do before you have been taught.
+      - question: Do I have to compete?
+        answer: No. Only around 5% of our adult members train to compete. Most come because they enjoy Muay Thai and want to keep fit. Competition training is there for people who choose it, not something every member is pushed towards.
+      - question: Will I have to spar?
+        answer: No. Our Beginners and All Levels sessions are non-contact. Sparring may be included in advanced training and we have a dedicated sparring session, but it is optional and controlled by the coaches. Some members train for years without sparring.
+
+  - type: faqs
+    dark: true
+    intro_content: |
+      ## Junior and teen classes
+    items:
+      - question: What is the minimum age for junior Muay Thai?
+        answer: Junior classes start at age six. At that age, children are generally better able to follow structured coaching and begin learning the techniques properly while still having an active, enjoyable session.
+      - question: My child has ADHD or finds it difficult to concentrate. Can they take part?
+        answer: We regularly coach children with ADHD. Our junior sessions change activities and keep children moving, which can help them stay involved. Every child is different, so speak to us about their needs before the first class and we can explain how the session works.
+      - question: Does my child have to compete?
+        answer: No. Roughly 20% of our junior members train to compete. Most come because they enjoy Muay Thai, want to be active and like training with the other children. There is no pressure to fight.
+      - question: Will my daughter be the only girl in the class?
+        answer: No. Girls train throughout our junior and teen age groups, and some sessions are close to an even split between girls and boys. She will train in the same coached session as the rest of her age group.
+
+  - type: faqs
+    intro_content: |
+      ## Practical questions
+    items:
       - question: What should I wear to a Muay Thai class?
-        answer: Wear gym shorts or leggings that finish above the knee, a T-shirt and, if you wish, wrist wraps. You can train barefoot. Gloves and shin guards are available if you do not have your own.
-      - question: When can I start sparring?
-        answer: You can start sparring once your coach has approved you to do so.
-      - question: How often should I train?
-        answer: Beginners should start by training once or twice a week, then increase to three to five times a week when they are ready.
-      - question: Can I pay as I go, or do I have to pay by Direct Debit?
-        answer: We offer pay-as-you-go and monthly payment options. The monthly option works out cheaper if you train more than once a week.
-      - question: Can I train through private one-to-one sessions only?
-        answer: Yes. See our [personal training](/class/personal-training/) page.
-      - question: Can I compete?
-        answer: Yes. We can help you reach competition level and work towards your goals. You do not have to compete, but if you decide to fight, we can enter you in some of the UK's best shows and help you work towards titles.
+        answer: Wear gym shorts or leggings that finish above the knee and a T-shirt. You can train barefoot. Gloves and shin guards are available if you do not have your own.
+      - question: How often should a beginner train?
+        answer: Once or twice a week is a sensible place to start. You can increase that when your body has adjusted and you want to do more.
+      - question: Can I pay as I go?
+        answer: Yes. Adult sessions cost £11.50, or £10 when paying cash at the gym. Junior and teen sessions cost £7, or £6 in cash. Monthly memberships are also available if you train regularly.
+      - question: Can I book private one-to-one training?
+        answer: Yes. We offer [personal training](/class/personal-training/) for adults and juniors, with sessions adapted to your experience and goals.
 ---

@@ -1,8 +1,8 @@
 ---
 name: GFC Muay Thai
 permalink: /
-meta_title: Free Muay Thai Taster Sessions in Bury | GFC Muay Thai
-meta_description: One of the North West's longest-running and most successful Muay Thai gyms, welcoming children, adult beginners and experienced fighters.
+meta_title: Muay Thai Classes in Bury | GFC Muay Thai
+meta_description: Junior, teen and adult Muay Thai classes at GFC's 5,000+ sq ft training centre in Bury.
 eleventyNavigation:
   key: Home
   order: 1
@@ -13,9 +13,9 @@ blocks:
     parallax: true
     tint: true
     content: |
-      # Bury's Number One Muay Thai Gym
+      # Bury's biggest Muay Thai centre
 
-      Muay Thai classes for all ages
+      Junior, teen and adult classes for complete beginners, experienced students and fighters.
     buttons:
       - text: Book your trial Muay Thai session
         href: /timetable/
@@ -24,47 +24,82 @@ blocks:
 
   - type: image-cards
     intro_content: |
-      ## Ways to train at GFC
+      ## Muay Thai classes in Bury
 
-      Explore group classes, book personal training, join as a member or visit our specialist shop.
-    image_aspect_ratio: "3/4"
+      Start in the class for your age and experience. Advanced sessions are available when you are ready for them.
+    image_aspect_ratio: "4/3"
     items:
-      - image: /images/adult-muay-thai-padwork.jpg
-        thumbnail: /images/adult-muay-thai-padwork.jpg
-        name: Group Classes
-        link: /class/
-      - image: /images/luke-philips-coaching-push-kick.jpg
-        thumbnail: /images/luke-philips-coaching-push-kick.jpg
-        name: Personal Training
-        link: /class/personal-training/
+      - image: /images/girls-muay-thai-partner-drill.jpg
+        thumbnail: /images/girls-muay-thai-partner-drill.jpg
+        name: Junior Classes, Ages 6-11
+        description: Fun, active sessions that change activities regularly to keep children involved while they learn the fundamentals of Muay Thai.
+        link: /class/juniors/
+      - image: /images/junior-students-gfc-boxing-ring.jpg
+        thumbnail: /images/junior-students-gfc-boxing-ring.jpg
+        name: Teen Classes, Ages 12-15
+        description: Two weekly All Levels classes, plus two Advanced and Fighters sessions for experienced students and those preparing to compete.
+        link: /class/juniors/
       - image: /images/adult-students-gfc-boxing-ring.jpg
         thumbnail: /images/adult-students-gfc-boxing-ring.jpg
-        name: Memberships
-        link: /join/
-      - image: /images/infightstyle-classic-boxing-glove.jpg
-        thumbnail: /images/infightstyle-classic-boxing-glove.jpg
-        name: Muay Thai Shop
-        link: https://www.themuaythaishop.co.uk/
+        name: Adult Classes, Ages 15+
+        description: Begin with Muay Thai Basics, join an All Levels class or progress into advanced technical work and optional sparring.
+        link: /class/adults/
 
   - type: split-image
     compact: true
-    subtitle: More than a fight gym
+    subtitle: Experience behind the coaching
     content: |
-      ## Train for fitness. Stay for the craft.
+      ## GFC has grown through generations of Muay Thai
 
-      Not everyone competes. Most people train for the challenge, improved fitness and the satisfaction of learning Muay Thai properly.
+      Darren Phillips began training with Master Sken and Sandy Holt in 1983 and established the club that became GFC. Luke Phillips started before he was three, competed unbeaten as an adult and now runs GFC with Jodie Higson.
 
-      Our beginner, intermediate and fighter sessions give you room to develop at your own pace, with coaching that builds stamina, strength, mobility and confidence.
+      The current Bright Street Mill facility covers more than 5,000 sq ft, with 14 heavy bags, two 16 ft rings and fully matted training areas.
     button:
-      text: Explore our classes
-      href: /class/
+      text: Meet the coaching team
+      href: /team/
       variant: secondary
-    figure_src: /images/muay-thai-student-between-drills.jpg
-    figure_alt: A Muay Thai student catching his breath between drills beside the GFC heavy bags
+    figure_src: /images/muay-thai-championship-belts.jpg
+    figure_alt: A row of Muay Thai championship belts displayed along the wall at GFC
+
+  - type: features
+    dark: true
+    intro_content: |
+      ## Weekly Muay Thai timetable
+    items:
+      - name: Monday
+        description: |
+          - **09:00-10:30:** Fighters Class, invite only
+          - **17:00-17:45:** Juniors, ages 6-11
+          - **17:45-18:45:** Teens All Levels, ages 12-15
+          - **19:00-20:15:** Adult All Levels, ages 15+
+      - name: Tuesday
+        description: |
+          - **09:00-10:30:** Fighters Class, invite only
+          - **17:15-18:45:** Kids and Teens Advanced / Fighters, ages 6-15
+          - **18:45-20:00:** Adult Advanced Technical Class, ages 15+
+          - **20:15-21:15:** Ladies-Only Muay Thai, ages 16+
+      - name: Wednesday
+        description: |
+          - **09:00-10:30:** Fighters Class, invite only
+          - **17:15-18:45:** Kids and Teens Advanced / Fighters, ages 6-15
+          - **18:45-20:00:** Adult All Levels, ages 15+
+      - name: Thursday
+        description: |
+          - **09:00-10:30:** Fighters Class, invite only
+          - **17:00-17:45:** Juniors, ages 6-11
+          - **17:45-18:45:** Teens All Levels, ages 12-15
+          - **19:00-20:00:** Adult Beginners / Muay Thai Basics, ages 15+
+          - **20:00-20:30:** Freestyle Pad Work, ages 15+
+      - name: Friday
+        description: |
+          - **09:00-10:30:** Fighters Class, invite only
+      - name: Saturday
+        description: |
+          - **10:30-12:00:** Adult Sparring, ages 15+
 
   - type: stats
     intro_content: |
-      ## GFC membership packages
+      ## Membership and drop-in prices
     items:
       - value: £45
         label: Junior unlimited, per month
@@ -74,10 +109,10 @@ blocks:
         label: Adult standard, two sessions per week
       - value: £65
         label: Adult unlimited, per month
-      - value: £10
-        label: Adult drop-in, per class
-      - value: £6
-        label: Junior drop-in, per class
+      - value: £11.50
+        label: Adult drop-in (£10 cash), per class
+      - value: £7
+        label: Junior and teen drop-in (£6 cash), per class
 
   - type: items
     collection: reviews
