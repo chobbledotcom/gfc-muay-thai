@@ -1,7 +1,8 @@
 ---
 name: Juniors
-permalink: /class/juniors-2/
+permalink: /class/juniors/
 redirect_from:
+  - /class/juniors-2/
   - /class/juniors-9/
 meta_title: Junior Muay Thai Classes in Bury | GFC Muay Thai
 eleventyNavigation:
@@ -15,12 +16,12 @@ blocks:
     content: |
       # Junior Muay Thai
 
-      A high-energy introduction to Muay Thai where young people can build fitness, confidence and discipline in a positive, motivating gym.
+      A high-energy introduction to Muay Thai where young people can build fitness, confidence and discipline in a positive, motivating environment.
 
       Beginners learn the fundamentals properly, while experienced juniors keep progressing through more challenging technical work.
     button:
       text: Book a trial
-      href: /timetable/0c55dfe2-fbf8-45a6-a543-5ec4c4fe1acf/
+      href: /timetable/
       variant: secondary
     figure_src: /images/girls-muay-thai-partner-drill.jpg
     figure_alt: A coach watches two girls practise kicks together during a children's Muay Thai class
@@ -28,9 +29,9 @@ blocks:
   - type: gallery
     dark: true
     intro_content: |
-      ## Inside a Junior Session
+      ## Inside a junior session
 
-      Every class mixes individual technique with supervised partner drills, helping students learn control as well as power.
+      Every class mixes individual technique work with supervised partner drills, helping students learn control as well as power.
     aspect_ratio: "3/4"
     items:
       - image: /images/junior-heavy-bag-knee-strike.jpg
@@ -45,7 +46,7 @@ blocks:
     reverse: true
     subtitle: Train together
     content: |
-      ## Confidence Comes From Doing the Work
+      ## Confidence comes from doing the work
 
       Junior training is challenging, social and fun. Students learn to listen, practise with different partners and encourage the people around them.
 
@@ -57,18 +58,18 @@ blocks:
     compact: true
     subtitle: Coached with care
     content: |
-      ## Strong Foundations, Safe Progress
+      ## Strong foundations, safe progress
 
       Good coaching is about more than combinations. Our team pays attention to warm-ups, movement, technique and recovery so every junior can progress safely and confidently.
     figure_src: /images/luke-philips-junior-floor-stretch.jpg
-    figure_alt: Luke Philips helps a junior student through a floor stretching exercise during class
+    figure_alt: Luke Phillips helps a junior student through a floor stretching exercise during class
 
   - type: cta
     content: |
-      ## Book Your Trial Muay Thai Session Now
+      ## Book your trial Muay Thai session
     button:
-      text: Book Now
-      href: /timetable/0c55dfe2-fbf8-45a6-a543-5ec4c4fe1acf/
+      text: View timetable
+      href: /timetable/
       variant: secondary
       size: lg
 ---

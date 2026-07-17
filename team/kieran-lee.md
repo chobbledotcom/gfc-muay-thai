@@ -3,7 +3,9 @@ name: Kieran Lee
 order: 3
 subtitle: Coach
 thumbnail: /images/kieran-lee.jpg
-permalink: /teammember/kieran-lee/
+permalink: /team/kieran-lee/
+redirect_from:
+  - /teammember/kieran-lee/
 blocks:
   - type: split-image
     content: |
@@ -11,7 +13,9 @@ blocks:
 
       ## Coach
 
-      **Kieran started training over ten years ago, he has also lived in Thailand, training and competing alongside Thai Fighters. Kieran won his first ten fights, but has had an extended break from fighting due to an injury (not Thai boxing related). During this time Kieran has still studied Muay Thai and this has helped him become a very proficient instructor. His years training alongside some of the best fighters in the UK, and in Thailand give him a vast knowledge to draw from when coaching.**
+      Kieran has more than 15 years of Muay Thai experience, including time spent living, training and competing in Thailand alongside Thai fighters. He won his first ten fights.
+
+      After an injury unrelated to Muay Thai caused an extended break from competition, he continued studying the sport. His experience alongside leading fighters in the UK and Thailand gives him a broad base of technical and practical knowledge to draw on as a coach.
     figure_src: /images/kieran-lee.jpg
     figure_alt: Kieran Lee
 ---

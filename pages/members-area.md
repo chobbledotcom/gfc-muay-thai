@@ -1,32 +1,31 @@
 ---
-name: Members Area
-permalink: /membersarea/
-meta_title: Members area | GFC MUAY THAI
+name: Members' Area
+permalink: /members-area/
+redirect_from:
+  - /membersarea/
+meta_title: Members' Area | GFC Muay Thai
+meta_description: Access the GFC Muay Thai members' app and account support.
 eleventyNavigation:
-  key: Members Area
+  key: Members' Area
   order: 10
 blocks:
   - type: split-image
     content: |
-      # Existing members
+      # Members' area
 
       ## Manage your account
 
-      Sign in below to access and manage your details.
+      Use the GFC members' app to view and manage your account on the go.
 
-      For added convenience, manage your membership on the go!
+      If you have forgotten your password, use the "Forgot password?" link in the app.
 
-      If you have forgotten your password, click “Forgot Password?” to reset it.
+      Need help? [Contact us](/contact/).
 
-      Need help or have questions? Our support team is here for you - [CONTACT US](/contactus/)
-
-      Thank you for being a valued member.
-
-      We look forward to supporting you on your journey!
+      Thank you for being a member. We look forward to supporting your training.
     button:
-      text: Download our members app
+      text: Open the members' app
       href: https://m-gfc.ammhub.com
       variant: secondary
     figure_src: /images/members-app.png
-    figure_alt: GFC Muay Thai members app
+    figure_alt: Diagram showing GFC Muay Thai members' app features, including sign-in, personal details, licences, grading history and events
 ---

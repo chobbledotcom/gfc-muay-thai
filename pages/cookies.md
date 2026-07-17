@@ -1,32 +1,35 @@
 ---
 name: Cookie Policy
 permalink: /cookies/
-meta_title: Cookies Policy | GFC MUAY THAI
+meta_title: Cookie Policy | GFC Muay Thai
+meta_description: Learn how the GFC Muay Thai website uses cookies and third-party services.
 blocks:
   - type: markdown
     content: |
       # Cookie Policy
 
-      Our website uses Cookies for various purposes. Cookies are small text parcels sent to and from a website, which is then stored on your computer by your browser. Without a Cookie a website cannot distinguish between different users, which can lead to essential functionality of a site not working as expected. This policy explains how Cookies are used on our website and how you can control them.
+      Our website uses cookies for several purposes. Cookies are small text files that a website stores on your device through your browser. They help the website distinguish between users and provide essential functionality. This policy explains how we use cookies and how you can control them.
 
-      In this policy, we/us/website refers to https://www.gfcmuaythai.co.uk
+      In this policy, "the website" means [www.gfcmuaythai.co.uk](https://www.gfcmuaythai.co.uk/), and "we", "us" and "our" refer to its operator.
 
-      ## How We Use Cookies
+      ## How we use cookies
 
-      We use Cookies to define sessions, provide essential site features and track visitors anonymously for analytical purposes. We regularly carry out an audit of the cookies used on our website and have categorised them into the following:
+      We use cookies where necessary to provide website features. Embedded third-party services may also set cookies when you use them.
 
-      - Essential Cookies
-      - Third Party Cookies
+      ## Essential cookies
 
-      The below tables highlight all of the Cookies in use on this website. The Duration specifies how long they live on your computer until they are removed or renewed. Each type of Cookie may occur multiple times, each with different Name(s). We grouped these together for readability purposes.
+      Essential cookies are required for a service to work correctly. Without them, parts of the website may not function or be available.
 
-      ## Essential Cookies
+      ## Third-party services
 
-      These Cookies are required by the website in order to work as expected. Without them you may be unable to browse parts of the website or view it at all.
+      The website embeds services provided by other organisations. These services may set their own cookies when you interact with them:
 
-      ## Third Party Cookies
+      - Google Maps, used to display the gym's location
+      - AdminMyMembers, used for membership enrolment
 
-      These Cookies are used by selected third parties we have chosen to integrate with. They are used mainly for tracking purposes so that we can further improve the site for the future. They may also be used for integrating with social sites to further enhance your website experience.
+      Please refer to each provider's privacy and cookie information for details of the cookies they use.
 
-      - Google Analytics
+      ## Controlling cookies
+
+      You can control or delete cookies through your browser settings. Blocking some cookies may prevent embedded services from working correctly.
 ---

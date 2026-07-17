@@ -1,12 +1,12 @@
 ---
-name: Not Found
-meta_title: Not Found
+name: Page not found
+meta_title: Page Not Found | GFC Muay Thai
 no_index: true
 permalink: /bunnycdn_errors/404.html
 blocks:
   - type: markdown
     content: |
-      ## Page Not Found
+      # Page not found
 
-      Whoops! It looks like you followed an invalid link - **[click here to go back to the homepage](/)**.
+      Sorry, we cannot find that page. [Return to the homepage](/).
 ---

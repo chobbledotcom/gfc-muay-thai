@@ -1,15 +1,15 @@
 ---
 name: GFC Muay Thai
 permalink: /
-meta_title: Join GFC Muay Thai Gym in Bury – Free Taster Sessions for Juniors, Adults & Ladies Only Classes
-meta_description: One of the North West's longest running and most sucessful Muay Thai gyms. We serve all levels of student, from kids, to adult beginners to experienced fighters.
+meta_title: Free Muay Thai Taster Sessions in Bury | GFC Muay Thai
+meta_description: One of the North West's longest-running and most successful Muay Thai gyms, welcoming children, adult beginners and experienced fighters.
 eleventyNavigation:
   key: Home
   order: 1
 blocks:
   - type: image-background
     image: /images/bg-banner-1.jpg
-    image_alt: GFC Muay Thai
+    image_alt: Rows of heavy bags inside the GFC Muay Thai gym
     parallax: true
     tint: true
     content: |
@@ -17,24 +17,26 @@ blocks:
 
       Muay Thai classes for all ages
     buttons:
-      - text: Book Your Trial Muay Thai Session Now
-        href: /timetable/0c55dfe2-fbf8-45a6-a543-5ec4c4fe1acf/
+      - text: Book your trial Muay Thai session
+        href: /timetable/
         variant: primary
         size: lg
 
   - type: image-cards
     intro_content: |
-      ## We have classes for all age groups
+      ## Ways to train at GFC
+
+      Explore group classes, book personal training, join as a member or visit our specialist shop.
     image_aspect_ratio: "3/4"
     items:
       - image: /images/adult-muay-thai-padwork.jpg
         thumbnail: /images/adult-muay-thai-padwork.jpg
-        name: Beginners Course
-        link: https://p-gfc.ammhub.com/tk/96952d43cea84644b73110c5ca340c9c
+        name: Group Classes
+        link: /class/
       - image: /images/luke-philips-coaching-push-kick.jpg
         thumbnail: /images/luke-philips-coaching-push-kick.jpg
         name: Personal Training
-        link: /class/personal-training-8/
+        link: /class/personal-training/
       - image: /images/adult-students-gfc-boxing-ring.jpg
         thumbnail: /images/adult-students-gfc-boxing-ring.jpg
         name: Memberships
@@ -50,7 +52,7 @@ blocks:
     content: |
       ## Train for fitness. Stay for the craft.
 
-      Not everyone competes. Most people train for the challenge, the fitness and the satisfaction of learning Muay Thai properly.
+      Not everyone competes. Most people train for the challenge, improved fitness and the satisfaction of learning Muay Thai properly.
 
       Our beginner, intermediate and fighter sessions give you room to develop at your own pace, with coaching that builds stamina, strength, mobility and confidence.
     button:
@@ -60,50 +62,42 @@ blocks:
     figure_src: /images/muay-thai-student-between-drills.jpg
     figure_alt: A Muay Thai student catching his breath between drills beside the GFC heavy bags
 
-  - type: markdown
-    content: |
-      ## GFC Membership Packages
-
-      **JUNIOR UNLIMITED: £45 P/M**
-
-      **ADULT BASIC - £35 P/M**
-
-      *ONE SESION PER WEEK*
-
-      **ADULT STANDARD: £50 P/M**
-
-      *2 SESSIONS PER WEEK*
-
-      **ADULT UNLIMITED: £65 P/M**
-
-      DROP IN PRICES: ADULTS £10 PER CLASS // JUNIORS £6 PER CLASS
-
-  - type: cta
-    content: |
-      ## Book Your Trial Muay Thai Session Now
-    button:
-      text: Book Now
-      href: /timetable/0c55dfe2-fbf8-45a6-a543-5ec4c4fe1acf/
-      variant: secondary
-      size: lg
+  - type: stats
+    intro_content: |
+      ## GFC membership packages
+    items:
+      - value: £45
+        label: Junior unlimited, per month
+      - value: £35
+        label: Adult basic, one session per week
+      - value: £50
+        label: Adult standard, two sessions per week
+      - value: £65
+        label: Adult unlimited, per month
+      - value: £10
+        label: Adult drop-in, per class
+      - value: £6
+        label: Junior drop-in, per class
 
   - type: items
     collection: reviews
     intro_content: |
-      ## What others say about us
+      ## What our members say
     horizontal: true
 
   - type: iframe-embed
     src: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1183.8583886890578!2d-2.2860068958531543!3d53.59851500411595!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487ba4cfabf7bdf9%3A0x2718291cec607d4!2sGFC%20Muay%20Thai!5e0!3m2!1sen!2suk!4v1727119999220!5m2!1sen!2suk
     name: GFC Muay Thai location
     height: 450
+    intro_content: |
+      ## Find us
 
   - type: cta
     content: |
-      ## Book Your Trial Muay Thai Session Now
+      ## Book your trial Muay Thai session
     button:
-      text: Book Now
-      href: /timetable/0c55dfe2-fbf8-45a6-a543-5ec4c4fe1acf/
+      text: View timetable
+      href: /timetable/
       variant: secondary
       size: lg
 ---

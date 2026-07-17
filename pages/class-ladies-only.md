@@ -1,7 +1,9 @@
 ---
 name: Ladies Only
-permalink: /class/ladies-only-4/
-meta_title: Ladies Only Muay Thai Classes in Bury | GFC Muay Thai
+permalink: /class/ladies-only/
+redirect_from:
+  - /class/ladies-only-4/
+meta_title: Ladies-Only Muay Thai Classes in Bury | GFC Muay Thai
 eleventyNavigation:
   key: Ladies Only
   parent: Classes
@@ -11,14 +13,14 @@ blocks:
     compact: true
     subtitle: Supportive. Focused. Powerful.
     content: |
-      # Ladies Only Muay Thai
+      # Ladies-Only Muay Thai
 
-      Train, have fun and learn genuine Muay Thai in a women-only session built for every fitness and experience level.
+      Train, have fun and learn genuine Muay Thai in a women-only session for all levels of fitness and experience.
 
-      Whether your goal is better fitness, new skills or competition, you can progress at your own pace in a welcoming environment. No pressure, just good coaching and consistent work.
+      Whether you want to improve your fitness, learn new skills or prepare for competition, you can progress at your own pace in a welcoming environment. There is no pressure, just good coaching and consistent work.
     button:
       text: Book a trial
-      href: /timetable/0c55dfe2-fbf8-45a6-a543-5ec4c4fe1acf/
+      href: /timetable/
       variant: secondary
     figure_src: /images/womens-heavy-bag-training.jpg
     figure_alt: A woman in blue boxing gloves strikes an InFightStyle heavy bag at GFC Muay Thai
@@ -26,7 +28,7 @@ blocks:
   - type: features
     dark: true
     items:
-      - name: Beginner friendly
+      - name: Beginner-friendly
         description: Learn the fundamentals in a class where you can ask questions and build confidence.
       - name: Full-body fitness
         description: Develop strength, stamina and mobility without repetitive gym routines.
@@ -35,10 +37,10 @@ blocks:
 
   - type: cta
     content: |
-      ## Book Your Trial Muay Thai Session Now
+      ## Book your trial Muay Thai session
     button:
-      text: Book Now
-      href: /timetable/0c55dfe2-fbf8-45a6-a543-5ec4c4fe1acf/
+      text: View timetable
+      href: /timetable/
       variant: secondary
       size: lg
 ---

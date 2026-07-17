@@ -1,12 +1,16 @@
 ---
 name: Join Now
 permalink: /join/
-meta_title: Join | GFC MUAY THAI
+meta_title: Join | GFC Muay Thai
 eleventyNavigation:
   key: Join Now
   order: 9
 blocks:
-  - type: hero
+  - type: image-background
+    image: /images/bg-banner-1.jpg
+    image_alt: Rows of heavy bags inside the GFC Muay Thai gym
+    parallax: true
+    tint: true
     content: |
       # Join GFC Muay Thai
 
@@ -16,16 +20,16 @@ blocks:
     compact: true
     subtitle: Junior membership
     content: |
-      ## Unlimited Junior Training
+      ## Unlimited junior training
 
-      Give young students the consistency to build technique, confidence and friendships across regular weekly sessions.
+      Regular weekly training helps young students build technique, confidence and friendships.
 
       **Junior unlimited: £45 per month**
 
       **Junior drop-in: £6 per class**
     button:
       text: Explore junior classes
-      href: /class/juniors-2/
+      href: /class/juniors/
       variant: secondary
     figure_src: /images/junior-boxer-blue-gloves-portrait.jpg
     figure_alt: A young GFC Muay Thai student wearing blue camouflage gloves and white Thai boxing shorts
@@ -36,9 +40,9 @@ blocks:
     reverse: true
     subtitle: Adult membership
     content: |
-      ## Train as Often as You Need
+      ## Train as often as you need
 
-      Start with one class a week or choose unlimited training to build momentum faster.
+      Start with one class a week or choose unlimited training to build consistent momentum.
 
       **Adult basic, one session per week: £35 per month**
 
@@ -49,19 +53,17 @@ blocks:
       **Adult drop-in: £10 per class**
     button:
       text: Explore adult classes
-      href: /class/adults-3/
+      href: /class/adults/
       variant: secondary
     figure_src: /images/muay-thai-student-gym-portrait.jpg
     figure_alt: A Muay Thai student in a white T-shirt and turquoise Thai boxing shorts standing with his arms folded in the gym
-
-  - type: markdown
-    content: |
-      ## Enrol Online
-
-      Use the secure membership form below to set up your GFC account.
 
   - type: iframe-embed
     src: https://s-gfc.ammhub.com/
     name: GFC Muay Thai membership enrolment
     height: 900
+    intro_content: |
+      ## Enrol online
+
+      Use the secure membership form below to set up your GFC account.
 ---

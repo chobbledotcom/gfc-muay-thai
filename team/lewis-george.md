@@ -3,7 +3,9 @@ name: Lewis George
 order: 4
 subtitle: Coach
 thumbnail: /images/lewis-george.jpg
-permalink: /teammember/lewis-george/
+permalink: /team/lewis-george/
+redirect_from:
+  - /teammember/lewis-george/
 blocks:
   - type: split-image
     content: |
@@ -11,7 +13,9 @@ blocks:
 
       ## Coach
 
-      **Lewis George started training at GFC when he was just five years old, after ten fights he had a record of 5wins 5 losses, but then went on to win his next 50 fights picking up numerous, area, British, European and World titles. After a brief spell at Bad Company Gym Lewis returned “home” to GFC. He has also visited Thailand, living in a camp with the Thais, he had his first fight in Thailand, winning by 1st round ko and is now unbeaten as an adult professional.**
+      Lewis has more than 15 years of Muay Thai experience. He started training at GFC when he was five years old. After his first ten fights, he had a record of five wins and five losses, but he went on to win his next 50 fights, picking up numerous area, British, European and world titles.
+
+      After a brief spell at Bad Company Gym, Lewis returned home to GFC. He has also trained and fought in Thailand, living at a camp alongside Thai fighters and winning his first bout there by first-round knockout. He went on to begin his adult professional career unbeaten.
     figure_src: /images/lewis-george.jpg
     figure_alt: Lewis George
 ---

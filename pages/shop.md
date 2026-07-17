@@ -1,16 +1,18 @@
 ---
 name: GFC Muay Thai Shop
 permalink: /shop/
+redirect_from:
+  - /class/muay-thai-shop-uk-6/
 meta_title: GFC Muay Thai Shop
 blocks:
   - type: image-background
     image: /images/pro-shop-banner.jpg
-    image_alt: GFC Muay Thai shop
+    image_alt: A GFC Muay Thai student training in InFightStyle kit
     tint: true
     content: |
-      # Train in the Right Kit
+      # Train in the right kit
 
-      Premium InFightStyle gloves, shorts, apparel and equipment from Muay Thai Shop UK.
+      Muay Thai Shop UK is the exclusive UK distributor of InFightStyle, offering gloves, shorts, apparel and training equipment.
     buttons:
       - text: Visit the online shop
         href: https://www.themuaythaishop.co.uk/
@@ -21,25 +23,25 @@ blocks:
     intro_content: |
       ## InFightStyle at GFC
 
-      Equipment chosen for real training, from first sessions through to fight preparation.
+      Explore equipment for real training, from first sessions to fight preparation.
     image_aspect_ratio: "3/4"
     items:
       - image: /images/infightstyle-classic-boxing-glove.jpg
         name: Classic Boxing Gloves
-        description: Clean design, dependable protection and the fit needed for serious rounds.
+        description: Clean design, dependable protection and a secure fit for demanding rounds.
         link: https://www.themuaythaishop.co.uk/
       - image: /images/infightstyle-white-boxing-glove.jpg
         name: Training Essentials
         description: Gloves and accessories for padwork, bagwork and everyday gym sessions.
         link: https://www.themuaythaishop.co.uk/
       - image: /images/infightstyle-boxing-ring-padding.jpg
-        name: Built Into the Gym
-        description: InFightStyle equipment is part of the training environment at GFC.
+        name: Used at GFC
+        description: GFC uses InFightStyle equipment throughout the gym.
         link: https://www.themuaythaishop.co.uk/
 
   - type: cta
     content: |
-      ## Need Help Choosing Your Kit?
+      ## Need help choosing your kit?
 
       Speak to us in the gym or explore the full InFightStyle range online.
     button:

@@ -1,9 +1,11 @@
 ---
 name: Our team
-permalink: /meettheteam/
+permalink: /team/
 redirect_from:
+  - /meettheteam/
   - /teammember/
-meta_title: Our team | GFC MUAY THAI
+meta_title: Our Team | GFC Muay Thai
+meta_description: Meet the GFC Muay Thai coaching team in Bury.
 eleventyNavigation:
   key: Our team
   order: 4
@@ -14,7 +16,7 @@ blocks:
     content: |
       # Built on Muay Thai
 
-      GFC has developed champions, experienced fighters and confident beginners across generations of training.
+      Across generations of training, GFC has developed champions and experienced fighters while helping beginners build confidence.
 
       Our coaching team combines competition experience, time spent training in Thailand and decades of practical teaching in Bury.
     figure_src: /images/muay-thai-championship-belts.jpg
@@ -23,14 +25,14 @@ blocks:
   - type: items
     collection: team
     intro_content: |
-      ## Meet the Coaching Team
+      ## Meet the coaching team
     image_aspect_ratio: "4/3"
   - type: cta
     content: |
-      ## Book Your Trial Muay Thai Session Now
+      ## Book your trial Muay Thai session
     button:
-      text: Book Now
-      href: /timetable/0c55dfe2-fbf8-45a6-a543-5ec4c4fe1acf/
+      text: View timetable
+      href: /timetable/
       variant: secondary
       size: lg
 ---

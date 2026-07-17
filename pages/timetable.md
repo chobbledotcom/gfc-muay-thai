@@ -1,25 +1,86 @@
 ---
 name: Timetable
-permalink: /our-martial-arts-locations/
+permalink: /timetable/
 redirect_from:
-  - /timetable/
-meta_title: Choose from our timetable, GFC MUAY THAI
-meta_description: Choose from our timetable, GFC MUAY THAI
+  - /our-martial-arts-locations/
+  - /timetable/0c55dfe2-fbf8-45a6-a543-5ec4c4fe1acf/
+  - /timetablebyday/0c55dfe2-fbf8-45a6-a543-5ec4c4fe1acf/
+  - /timetablebyage/0c55dfe2-fbf8-45a6-a543-5ec4c4fe1acf/
+meta_title: Muay Thai Class Timetable | GFC Muay Thai
+meta_description: View GFC Muay Thai's weekly class timetable in Bury and enquire about a free trial session.
 eleventyNavigation:
   key: Timetable
   order: 2
 blocks:
-  - type: hero
+  - type: image-background
+    image: /images/gfc-muay-thai-heavy-bag.jpg
+    image_alt: A black GFC Muay Thai and InFightStyle heavy bag hanging beside the gym windows
+    parallax: true
+    tint: true
+    badge: Free taster classes
     content: |
-      # Book Your Trial Muay Thai Session Now
+      # Muay Thai class timetable
 
-      Experience the thrill of martial arts at its best! GFC MUAY THAI is excited to offer you a golden opportunity to book a free taster class. Don't miss this chance to take the first step towards a healthier, more empowered you. Reserve your spot today and discover the world of GFC MUAY THAI. Get ready to kickstart your journey to a healthier, more confident you!
+      View our weekly timetable, choose a suitable session and take the first step towards improving your fitness and confidence.
+
+  - type: split-image
+    compact: true
+    subtitle: Current weekly classes
+    content: |
+      ## Find the right session
+
+      Trial sessions for beginners are available in junior, teen, adult and ladies-only classes. Advanced and sparring sessions require a coach's approval.
+
+      Contact us if you need help choosing a session or would like to enquire about an advanced class.
+
+      You can enquire for yourself, your child or another family member.
+    button:
+      text: Contact us
+      href: /contact/
+      variant: secondary
+    figure_src: /images/junior-muay-thai-student-portrait.jpg
+    figure_alt: A young GFC Muay Thai student in blue gloves and a black and red training shirt
+
   - type: features
+    dark: true
+    intro_content: |
+      ## Weekly timetable
     items:
-      - name: Explore our Timetable by day
-        description: "By Day: To find out what's happening at GFC MUAY THAI on a particular day, choose the day you have in mind. This view enables you to see all the classes and activities scheduled for that specific day. [Book Now](/timetable/0c55dfe2-fbf8-45a6-a543-5ec4c4fe1acf/)"
-      - name: Timetable by age
-        description: "By Class: If you want to check the schedule for a specific class, simply select the class you're interested in from the list provided. This option allows you to see when your preferred class is offered throughout the week. [Book Now](/timetable/0c55dfe2-fbf8-45a6-a543-5ec4c4fe1acf/)"
-      - name: All Our Classes
-        description: "View All: If you prefer to get an overview of our entire timetable, you can select \"View All Our Classes\" to see the complete schedule for the week. This option provides a comprehensive look at all our classes and their timings. [Book Now](/timetable/0c55dfe2-fbf8-45a6-a543-5ec4c4fe1acf/)"
+      - name: Monday
+        description: |
+          - **17:00-17:45:** Junior Muay Thai, ages 6-12
+          - **17:45-18:45:** Teens Muay Thai, ages 12-15
+          - **18:45-19:45:** All Levels Muay Thai, ages 15+
+          - **19:45-20:15:** Adult Advanced Extra, ages 15+
+      - name: Tuesday
+        description: |
+          - **17:15-18:45:** Junior and Teen Advanced, ages 6-15
+          - **18:45-20:00:** Intermediate Muay Thai, ages 15+
+          - **20:15-21:15:** Ladies-Only Muay Thai, ages 16+
+      - name: Wednesday
+        description: |
+          - **17:15-18:45:** Junior and Teen Advanced, ages 6-15
+          - **18:45-19:45:** All Levels Muay Thai, ages 15+
+          - **19:45-20:15:** Adult Advanced Extra, ages 15+
+      - name: Thursday
+        description: |
+          - **17:00-17:45:** Junior Muay Thai, ages 6-12
+          - **17:45-18:45:** Teens Muay Thai, ages 12-15
+          - **18:45-20:00:** Intermediate Muay Thai, ages 15+
+          - **20:00-21:00:** Beginner Muay Thai, ages 15+
+      - name: Friday
+        description: |
+          - **18:00-20:00:** Adult Sparring, ages 15+
+      - name: Saturday
+        description: |
+          - **10:00-11:00:** Adult Muay Thai Padwork, all levels, ages 15+
+
+  - type: cta
+    content: |
+      ## Enquire about a trial session
+    button:
+      text: Contact us
+      href: /contact/
+      variant: secondary
+      size: lg
 ---

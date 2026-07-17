@@ -1,14 +1,21 @@
 ---
 name: Events
-permalink: /forthcomingevents/
-meta_title: Coming soon | GFC MUAY THAI
+permalink: /events/
+redirect_from:
+  - /forthcomingevents/
+meta_title: Events | GFC Muay Thai
+meta_description: Forthcoming GFC Muay Thai event details will be published here.
 eleventyNavigation:
   key: Events
   order: 5
 blocks:
-  - type: markdown
+  - type: image-background
+    image: /images/muay-thai-championship-belts.jpg
+    image_alt: A row of Muay Thai championship belts displayed along the wall at GFC
+    parallax: true
+    tint: true
     content: |
-      # Coming soon
+      # Events
 
-      Watch this space as this feature is under development and is coming soon.
+      Forthcoming event details will be published here. Please check back soon.
 ---

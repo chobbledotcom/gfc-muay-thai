@@ -1,7 +1,8 @@
 ---
 name: Reviews
 permalink: /reviews/
-meta_title: Testemonies, reviews | GFC MUAY THAI
+meta_title: Member Reviews | GFC Muay Thai
+meta_description: Read reviews from GFC Muay Thai members.
 eleventyNavigation:
   key: Reviews
   order: 7
@@ -9,7 +10,7 @@ blocks:
   - type: items
     collection: reviews
     intro_content: |
-      # What others say about us
+      # What our members say
 
-      Please read review of our members what they have to say abou us
+      Read what our members have to say about GFC Muay Thai.
 ---

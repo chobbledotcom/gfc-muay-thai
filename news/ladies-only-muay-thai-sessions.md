@@ -1,58 +1,65 @@
 ---
-name: Ladies ONLY Muay Thai sessions.
-meta_title: Ladies ONLY Muay Thai sessions.
+name: Ladies-Only Muay Thai Sessions
+meta_title: Ladies-Only Muay Thai Sessions | GFC Muay Thai
 date: 2024-10-26
 thumbnail: /images/ladies-only-muay-thai.jpeg
 permalink: /news/ladies-only-muay-thai-sessions/
 blocks:
   - type: image-background
     image: /images/ladies-only-muay-thai.jpeg
-    image_alt: Ladies ONLY Muay Thai sessions.
+    image_alt: A group of women after a ladies-only Muay Thai session at GFC
     tint: true
     content: |
-      # Ladies ONLY Muay Thai sessions.
+      # Ladies-only Muay Thai sessions
   - type: markdown
     content: |
-      At GFC Muay Thai, we are thrilled to announce the launch of our brand-new **ladies-only Muay Thai** classes in our cutting-edge 5000+ square foot facility in Bury. If you’re looking for a powerful, dynamic way to improve your fitness while learning the art of **Thai boxing**, our classes are the perfect opportunity for women of all skill levels to get involved in this ancient and effective form of **martial arts**.
+      Originally published to announce GFC's ladies-only Muay Thai sessions, this article introduces the class and our 5,000+ sq ft training facility in Bury. If you are looking for a dynamic way to improve your fitness while learning Muay Thai, our classes are open to women of all experience levels.
 
       ## Why Muay Thai?
 
-      Muay Thai, also known as **Thai boxing**, is much more than just a martial art. It’s an exhilarating way to boost your **fitness**, enhance mental discipline, and gain self-confidence. Known as "the art of eight limbs," Muay Thai uses punches, kicks, knees, and elbows in its techniques, offering a full-body workout that challenges and empowers.
+      Known as the "art of eight limbs", Muay Thai combines punches, kicks, knees and elbows. It provides varied, full-body training that develops skill, fitness and confidence.
 
-      For women, Muay Thai offers unique benefits. Our **ladies-only** classes are designed to help you:
+  - type: features
+    dark: true
+    intro_content: |
+      ## Benefits of training
+    items:
+      - name: Strength and stamina
+        description: Build cardiovascular fitness and full-body strength through varied, high-energy training.
+      - name: Mobility
+        description: Develop flexibility, coordination and range of motion through structured practice.
+      - name: Confidence
+        description: Build confidence as your technique and fitness improve.
+      - name: Community
+        description: Train with like-minded women in a safe and encouraging environment.
+      - name: Practical skills
+        description: Practise punches, kicks, blocks and clinch work used in Muay Thai and self-defence.
+      - name: Focus and discipline
+        description: Work through coached combinations and build consistency session by session.
 
-      - Build **strength and stamina**
-      - Improve **cardiovascular health**
-      - Develop **self-defense skills**
-      - Enhance **mental focus and discipline**
+  - type: split-full
+    variant: primary-left
+    left_content: |
+      ## A supportive environment
 
-      ## A Supportive Environment
+      Starting a new sport can feel intimidating. Our ladies-only sessions provide a welcoming setting where beginners and experienced students can learn at their own pace.
 
-      At GFC Muay Thai, we understand that starting a new sport or fitness journey can be intimidating, which is why our ladies-only classes are structured to provide a welcoming, supportive, and motivating environment. Whether you’re a complete beginner or have previous experience in **martial arts**, our expert instructors will guide you through every step, ensuring you get the most out of every session.
+      Coaches demonstrate each technique, answer questions and help students progress at their own pace.
+    right_content: |
+      ## Our Bury facility
 
-      We want every woman who steps into our gym to feel empowered, confident, and part of a strong community.
+      Train with 14 heavy bags, two 16 ft rings and fully matted areas in our 5,000+ sq ft gym.
 
-      ## Our New 5000+ Sqft Facility
+      The facility also includes treadmills, an assault bike, a ski ergometer, weights and a preparation kitchen.
 
-      Our facility in Bury is designed with your fitness journey in mind. With **14 brand-new bags**, two **16ft rings**, and premium training equipment, including treadmills, an assault bike, a ski erg, and weights, you'll have everything you need to train like a pro. We’ve also added new mats for a safer, more comfortable training experience and even a prep kitchen to help you stay on top of your nutrition and **healthy lifestyle** goals.
+  - type: cta
+    content: |
+      ## Ready to try a class?
 
-      ## Benefits of Muay Thai for Women
-
-      Our Muay Thai classes offer an incredible way to:
-
-      - **Burn calories**: Torch up to 600-700 calories per session while having fun!
-      - **Increase flexibility**: Gain strength and flexibility through structured training.
-      - **Boost self-confidence**: As you progress in your skills, you’ll notice a real boost in your self-confidence.
-      - **Relieve stress**: The high-energy, fast-paced nature of **Muay Thai** makes it a fantastic stress reliever.
-      - **Join a community**: Our ladies-only classes allow you to train with like-minded women in a safe and encouraging environment.
-
-      Whether you're here to try out **Muay Thai** for fitness, self-defense, or to challenge yourself in new ways, GFC Muay Thai is here to help you reach your goals.
-
-      ## Join Us Today!
-
-      Ready to step into the world of **Thai boxing** and improve your fitness in a fun, empowering environment? Our ladies-only Muay Thai classes are open for registration! Whether you’re looking to make a change in your **fitness routine**, enhance your **martial arts** skills, or just try something new, GFC Muay Thai in Bury is the perfect place to start.
-
-      Join us in our state-of-the-art facility, meet new people, and begin your journey towards a **healthier lifestyle** today. **Ladies fitness** has never been so exciting!
-
-      For more details or to book your spot, get in touch with us at GFC Muay Thai, and start transforming your life through **Muay Thai**!
+      Contact us to enquire about a free trial in a supportive, women-only environment.
+    button:
+      text: Enquire about a trial
+      href: /contact/
+      variant: secondary
+      size: lg
 ---

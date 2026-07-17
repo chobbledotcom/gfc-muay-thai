@@ -1,13 +1,13 @@
 ---
-name: Thank You
-meta_description:
-meta_title: Thank You
+name: Thank you
+meta_description: Thank you for contacting GFC Muay Thai. We will be in touch.
+meta_title: Thank You | GFC Muay Thai
 navigationParent: Contact
 no_index: true
 blocks:
   - type: markdown
     content: |
-      ## Thank You
+      # Thank you
 
-      Your message has been sent - we will be in touch.
+      Your message has been sent. We will be in touch.
 ---

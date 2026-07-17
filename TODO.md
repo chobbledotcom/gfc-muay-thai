@@ -9,8 +9,8 @@
 - [ ] Provide an audited cookie list for the Cookie Policy, including embedded Google Maps and AdminMyMembers services.
 - [ ] Confirm the publication dates of the two existing news posts.
 - [ ] Confirm whether the older Juniors, Adults and Ladies Only class copy should be restored; the live class pages are empty.
-- [ ] Provide a replacement for the expired Beginners Course campaign and booking URL on the homepage.
-- [ ] Provide a start date for Tiny Thai's classes, or confirm that the class should remain marked "Coming soon".
+- [ ] Provide a start date for Tiny Thais classes, or confirm that the class should remain marked "Coming soon".
 - [ ] Provide forthcoming event details, or confirm that the Events page should remain marked "Coming soon".
 - [ ] Confirm whether the Members Area should offer browser sign-in; if so, provide an external sign-in and password-reset URL.
 - [ ] Provide the original `umGVDPN.png` and `bgkqC2B.png` images if they should be retained.
+- [ ] Provide a portrait of Darren Phillips to replace the logo currently used on his team profile.

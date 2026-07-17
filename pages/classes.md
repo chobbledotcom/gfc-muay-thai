@@ -10,37 +10,37 @@ eleventyNavigation:
 blocks:
   - type: image-cards
     intro_content: |
-      # Find Your Class
+      # Find your class
 
-      Start from scratch, sharpen your technique or train around a specific goal. Every GFC session is coached with the same attention to fundamentals.
+      Start from scratch, sharpen your technique or train towards a specific goal. Every GFC session gives the same attention to strong fundamentals.
     image_aspect_ratio: "3/4"
     items:
       - image: /images/junior-roundhouse-kick-padwork.jpg
         name: Juniors
         description: High-energy Muay Thai for ages 6 to 15, built around fitness, confidence and discipline.
-        link: /class/juniors-2/
+        link: /class/juniors/
       - image: /images/adult-muay-thai-padwork.jpg
         name: Adults
-        description: Beginner-friendly training through to sparring and fighter development for ages 16 and over.
-        link: /class/adults-3/
+        description: Beginner-friendly training, with routes into sparring and fighter development for people aged 16 and over.
+        link: /class/adults/
       - image: /images/ladies-only-muay-thai.jpeg
         name: Ladies Only
         description: A supportive women-only class for fitness, technique, confidence and competition goals.
-        link: /class/ladies-only-4/
+        link: /class/ladies-only/
       - image: /images/luke-philips-coaching-push-kick.jpg
         name: Personal Training
-        description: Focused one-to-one coaching shaped around your technique, fitness and experience.
-        link: /class/personal-training-8/
+        description: Focused one-to-one coaching tailored to your technique, fitness and experience.
+        link: /class/personal-training/
 
   - type: split-full
     variant: primary-left
     left_content: |
-      ## Tiny Thai's
+      ## Tiny Thais
 
       A playful first step into martial arts for children aged 3.5 to 5. Coming soon to GFC.
     left_button:
       text: Find out more
-      href: /class/tiny-thais-1/
+      href: /class/tiny-thais/
       variant: secondary
     right_content: |
       ## Muay Thai Shop UK
@@ -53,10 +53,10 @@ blocks:
 
   - type: cta
     content: |
-      ## Book Your Trial Muay Thai Session Now
+      ## Book your trial Muay Thai session
     button:
-      text: Book Now
-      href: /timetable/0c55dfe2-fbf8-45a6-a543-5ec4c4fe1acf/
+      text: View timetable
+      href: /timetable/
       variant: secondary
       size: lg
 ---

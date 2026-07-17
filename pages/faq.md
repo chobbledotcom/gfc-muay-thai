@@ -1,9 +1,10 @@
 ---
-name: FAQ's
+name: FAQs
 permalink: /faq/
-meta_title: FAQ's | GFC MUAY THAI
+meta_title: FAQs | GFC Muay Thai
+meta_description: Answers to common questions about starting Muay Thai at GFC in Bury.
 eleventyNavigation:
-  key: FAQ's
+  key: FAQs
   order: 8
 blocks:
   - type: split-image
@@ -17,29 +18,29 @@ blocks:
       Come in comfortable sportswear, bring some water and be ready to learn. We can help with the rest.
     button:
       text: Book a trial
-      href: /timetable/0c55dfe2-fbf8-45a6-a543-5ec4c4fe1acf/
+      href: /timetable/
       variant: secondary
     figure_src: /images/girl-blue-boxing-gloves-portrait.jpg
     figure_alt: A young girl in a GFC Muay Thai shirt and blue camouflage boxing gloves
 
   - type: faqs
     intro_content: |
-      ## Frequently Asked Questions
+      ## Frequently asked questions
     items:
-      - question: Who can do Muay Thai?
-        answer: Muay Thai is suitable for all ages, skill levels, and physical fitness levels.
+      - question: Who can train in Muay Thai?
+        answer: Muay Thai can suit a wide range of ages, abilities and fitness levels. See our timetable for the current age groups.
       - question: What is Muay Thai?
-        answer: Muay Thai is a martial art from Thailand that's also known as the "art of eight limbs". It's taught for self-defense, recreational sport, and amateur and professional competition.
+        answer: Muay Thai is a martial art from Thailand, also known as the "art of eight limbs". It is practised for self-defence and recreation, as well as in amateur and professional competitions.
       - question: What should I wear to a Muay Thai class?
-        answer: You should wear gym shorts or leggings that stop above the knees, a t-shirt, and wrist wraps if you want them. You can train barefoot, but gloves and shin guards will be provided if you don't have your own.
+        answer: Wear gym shorts or leggings that finish above the knee, a T-shirt and, if you wish, wrist wraps. You can train barefoot. Gloves and shin guards are available if you do not have your own.
       - question: When can I start sparring?
-        answer: You can only spar if you've received your coach's approval.
+        answer: You can start sparring once your coach has approved you to do so.
       - question: How often should I train?
-        answer: Beginners should start by training 1-2 times a week, and then increase to 3-5 times a week once they're ready
-      - question: Can I pay as I go or do I have to go on Direct Debit?
-        answer: We offer pay as you go and monthly. Training is affordable. The monthly way is a great deal if you want to train more than once a week. It will work out a lot cheaper than pay as you go.
-      - question: Can I do private one to one training only?
-        answer: Of course! (See ‘[Personal Training](/class/personal-training-8/)’ page.)
+        answer: Beginners should start by training once or twice a week, then increase to three to five times a week when they are ready.
+      - question: Can I pay as I go, or do I have to pay by Direct Debit?
+        answer: We offer pay-as-you-go and monthly payment options. The monthly option works out cheaper if you train more than once a week.
+      - question: Can I train through private one-to-one sessions only?
+        answer: Yes. See our [personal training](/class/personal-training/) page.
       - question: Can I compete?
-        answer: We can get you to competition level and will help you achieve your goals! You do not have to compete but if you do decide to take your Muay Thai all the way to a real ring fight, we can put you into some of the best shows in the U.K Maybe aiming towards titles!
+        answer: Yes. We can help you reach competition level and work towards your goals. You do not have to compete, but if you decide to fight, we can enter you in some of the UK's best shows and help you work towards titles.
 ---
