@@ -7,9 +7,25 @@ eleventyNavigation:
   key: Contact us
   order: 11
 blocks:
+  - type: split-image
+    compact: true
+    subtitle: GFC HQ, Bury
+    content: |
+      # Come and See the Gym
+
+      Find us at **1A Bright Street Mill, Bury, BL9 6AQ**.
+
+      Get in touch if you are unsure which class to choose, want to ask about personal training or need help booking your first session.
+    button:
+      text: View our classes
+      href: /class/
+      variant: secondary
+    figure_src: /images/gfc-muay-thai-heavy-bag.jpg
+    figure_alt: A black GFC Muay Thai and InFightStyle heavy bag hanging beside the gym windows
+
   - type: contact-form
     intro_content: |
-      # Contact Us
+      ## Contact Us
     content: |
       [luke@gfcmuaythai.co.uk](mailto:luke@gfcmuaythai.co.uk)
 

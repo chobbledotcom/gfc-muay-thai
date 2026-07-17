@@ -15,17 +15,21 @@ blocks:
       GFC HQ, 1A BRIGHT STREET MILL, BURY, BL9 6AQ
 
       Book your trial session for yourself, dependents or family
-  - type: markdown
+  - type: split-image
+    compact: true
+    subtitle: Your first class
     content: |
-      ## Monday
+      ## Monday Junior Muay Thai
 
-      **17:00 / 17:45**
+      **17:00 to 17:45**
 
-      Muay Thai
+      **Ages 6 to 12**
 
-      **Junior Muay Thai**
+      Book a taster session and let our coaches guide your child through their first GFC class. No previous Muay Thai experience is needed.
 
-      6 - 12 Years
+      Contact us if you need help choosing the right session for yourself or a family member.
+    figure_src: /images/junior-muay-thai-student-portrait.jpg
+    figure_alt: A young GFC Muay Thai student in blue gloves and a black and red training shirt
   - type: cta
     content: |
       ## Book now

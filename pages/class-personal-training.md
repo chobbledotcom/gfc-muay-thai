@@ -3,40 +3,50 @@ name: Personal Training
 permalink: /class/personal-training-8/
 redirect_from:
   - /class/personal-training-5/
-meta_title: PERSONAL TRAINING GFC MUAY THAI MANCHESTER BURY FITNESS
-meta_description: PERSONAL TRAINING GFC MUAY THAI MANCHESTER BURY FITNESS
+meta_title: Personal Muay Thai Training in Bury | GFC Muay Thai
+meta_description: One-to-one Muay Thai coaching in Bury for adults and juniors, tailored to technique, fitness and competition goals.
 eleventyNavigation:
   key: Personal Training
   parent: Classes
   order: 5
 blocks:
+  - type: split-image
+    compact: true
+    subtitle: One coach. Your goals.
+    content: |
+      # Personal Training
+
+      Take your Muay Thai further with a session built around you. One-to-one coaching gives you the time to focus on precise technique, targeted fitness or preparation for competition.
+
+      Every session is adjusted to your experience, pace and priorities, so beginners and experienced fighters can both get meaningful work done.
+    figure_src: /images/luke-philips-catching-push-kick.jpg
+    figure_alt: Luke Philips catches a student's push kick while coaching Muay Thai technique
+
+  - type: split-image
+    dark: true
+    compact: true
+    reverse: true
+    subtitle: Head instructor
+    content: |
+      ## Personal Training With Luke
+
+      Luke has more than 25 years of Muay Thai experience. After competing as a decorated junior and unbeaten adult, training in Thailand and building a professional career, he moved into full-time coaching.
+
+      He has also worked as a referee and judge on leading shows including ONE Championship, Hitman Fight League and Yokkao.
+
+      **Adult, 1 hour: £50**
+
+      **Junior, 45 minutes: £40**
+
+      **Extra person: £10**
+    figure_src: /images/luke-philips-straight-punch-padwork.jpg
+    figure_alt: Luke Philips throws a straight punch into pads held by a training partner
+
   - type: markdown
     content: |
-      # PERSONAL TRAINING
+      ## Personal Training With Kieran or Lewis
 
-      **Personal Training at GFC Muay Thai**
-
-      Looking to take your Muay Thai skills to the next level, or just want a more personalized fitness experience? GFC Muay Thai offers specialized personal training sessions tailored to your individual needs and goals. Whether you’re aiming to master technique, improve fitness, or prepare for competition, our one-on-one coaching will help you achieve your best.
-
-      ## Personal Training with Luke
-
-      Luke has over 25yrs experiance in Muay Thai and has lived the sport his whole life. Growing up at shows every weekend, he has seen the highest level of Muay Thai since a young age. Then went onto competing as a high level junior winning multiple titles. After a short proffesional career & some time living and training in Thailand he made the switch to coaching full time. Whilst doing this he has also been a high level offical (referee and judge) on the biggest Muay Thai shows there is such as ONE Championship, Hitman Fight League, Yokkao and many more. The experiance Luke has to offer is second to none and something you dont find often.
-
-      **Adult (1 Hour):£50**
-
-      Perfect for individuals seeking focused attention to refine their skills, improve fitness, or work on specific goals.
-
-      **Junior (45 Minutes): £40**
-
-      Designed for younger athletes to develop their Muay Thai abilities in a fun and engaging way, while improving fitness and discipline.
-
-      **Extra Person: £10**
-
-      Bring a friend or family member! For each additional person joining the session, a £10 fee will be applied.
-
-      ## Personal Training with Kieran OR Lewis
-
-      Kieran & Lewis both have over 15yrs experiance in Muay Thai. Competing at a high level and spending time living and fighting in Thailand. Both have been coaching for some time now and have shown great results in students they have trained. Both have different styles that are ready to take you to the next level of Muay Thai.
+      Kieran and Lewis both have more than 15 years of Muay Thai experience, including high-level competition and time living and fighting in Thailand. Their different styles give students a broad range of technical knowledge to draw from.
 
       **Adult (1 Hour): £40**
 
@@ -50,9 +60,9 @@ blocks:
 
       Add a training partner for just £10 more per person, making it easy to train with a friend or family member!
 
-      ## Personal Training with Ryan OR Daniel
+      ## Personal Training With Ryan or Daniel
 
-      Ryan & Dan both have 10+ years experiacne in Muay Thai and both have lived and competed in Thailand. —each bring their unique expertise, but both are ready to take you to the next step of your Muay Thai training.
+      Ryan and Dan both have more than 10 years of Muay Thai experience and have lived and competed in Thailand. Each brings his own expertise to help take your training forward.
 
       **Adult (1 Hour): £35**
 
@@ -66,13 +76,22 @@ blocks:
 
       Add a training partner for just £10 more per person, making it easy to train with a friend or family member!
 
-      ## Why Choose Personal Training at GFC Muay Thai?
+  - type: split-image
+    compact: true
+    subtitle: Focused from the first minute
+    content: |
+      ## A Session That Works on What You Need
 
-      Personal training is perfect for those looking for a tailored experience that addresses specific needs and goals. You’ll benefit from focused, one-on-one attention, whether you’re working on mastering techniques, boosting your fitness, or preparing for an upcoming fight. Our coaches are dedicated to helping you achieve your best in a supportive and motivating environment.
+      Personal training is ideal for mastering a technique, improving fitness, preparing for a fight or getting extra confidence before joining regular classes.
 
-      Ready to get started? Book your personal training session today and see how individualized attention can take your Muay Thai skills and fitness to the next level!
+      Bring a specific goal or let your coach identify the details that will make the biggest difference.
+    button:
+      text: Ask about availability
+      href: /contactus/
+      variant: secondary
+    figure_src: /images/luke-philips-student-glove-fitting.jpg
+    figure_alt: Luke Philips watches as a Muay Thai student tightens a white boxing glove before training
 
-      **[CONTACT US TO FIND OUT ABOUT OUR AVAILABLITY FOR 1-2-1 TRAINING](/contactus/)**
   - type: cta
     content: |
       ## Book Your Trial Muay Thai Session Now

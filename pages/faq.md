@@ -6,6 +6,22 @@ eleventyNavigation:
   key: FAQ's
   order: 8
 blocks:
+  - type: split-image
+    compact: true
+    subtitle: Your first session starts here
+    content: |
+      # New to Muay Thai?
+
+      You do not need experience, specialist equipment or a competition goal to start training at GFC.
+
+      Come in comfortable sportswear, bring some water and be ready to learn. We can help with the rest.
+    button:
+      text: Book a trial
+      href: /timetable/0c55dfe2-fbf8-45a6-a543-5ec4c4fe1acf/
+      variant: secondary
+    figure_src: /images/girl-blue-boxing-gloves-portrait.jpg
+    figure_alt: A young girl in a GFC Muay Thai shirt and blue camouflage boxing gloves
+
   - type: faqs
     intro_content: |
       ## Frequently Asked Questions

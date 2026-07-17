@@ -40,19 +40,25 @@ blocks:
         name: Muay Thai Shop
         link: https://www.themuaythaishop.co.uk/
 
+  - type: split-image
+    compact: true
+    subtitle: More than a fight gym
+    content: |
+      ## Train for fitness. Stay for the craft.
+
+      Not everyone competes. Most people train for the challenge, the fitness and the satisfaction of learning Muay Thai properly.
+
+      Our beginner, intermediate and fighter sessions give you room to develop at your own pace, with coaching that builds stamina, strength, mobility and confidence.
+    button:
+      text: Explore our classes
+      href: /class/
+      variant: secondary
+    figure_src: /images/muay-thai-student-between-drills.jpg
+    figure_alt: A Muay Thai student catching his breath between drills beside the GFC heavy bags
+
   - type: markdown
     content: |
-      Our classes are split into Junior, Teen and Adult classes: Beginners and Intermediate
-
-      Beginners are allowed the time to learn properly while the more experianced brush up on their basics. And as you progress, you can join in our Intermediate classes and look to start sparring/competing.
-
-      Not everyone competes, in fact the majority of people train just for the fun of learning Muay Thai.
-
-      It’s a great way to get fit and is one of the few sports that will work on the 3 types of fitness, stamina, strength and suppleness.
-
-      Its also not a male dominated sport as our high level of success of female competitors demonstrates.
-
-      ## GFC MEMBERSHIP PACKAGES
+      ## GFC Membership Packages
 
       **JUNIOR UNLIMITED: £45 P/M**
 
@@ -80,7 +86,7 @@ blocks:
   - type: items
     collection: reviews
     intro_content: |
-      ## What other say about us
+      ## What others say about us
     horizontal: true
 
   - type: iframe-embed
