@@ -8,12 +8,13 @@
 	"phone_link": "tel:07931239316",
 	"email": "luke@gfcmuaythai.co.uk",
 	"location": "1A Bright Street Mill, Bury, BL9 6AQ",
+	"google_place_id": "ChIJ-b33q8-ke0gR1AfGzpGCcQI",
 	"socials": {
 		"Facebook": "https://www.facebook.com/GFCMuayThai/",
 		"Instagram": "https://www.instagram.com/gfcmuaythai/",
 		"TikTok": "https://www.tiktok.com/@gfcmuaythai",
-		"Google": null,
-		"YouTube": "https://www.youtube.com/channel/UCVcqYJBRCCyFaMAJtdvJWOA",
+		"Google": "https://maps.app.goo.gl/zVmudXzMRgqR6fMZ8",
+		"YouTube": "https://www.youtube.com/@gfc.muaythai",
 		"WhatsApp": null,
 		"RSS": "/feed.xml"
 	},

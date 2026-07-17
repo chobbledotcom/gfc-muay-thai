@@ -25,18 +25,22 @@ blocks:
   - type: image-cards
     intro_content: |
       ## We have classes for all age groups
-    image_aspect_ratio: "16/9"
+    image_aspect_ratio: "3/4"
     items:
-      - image: /images/beginners-course-may-2026.jpg
+      - image: /images/adult-muay-thai-padwork.jpg
+        thumbnail: /images/adult-muay-thai-padwork.jpg
         name: Beginners Course
         link: https://p-gfc.ammhub.com/tk/96952d43cea84644b73110c5ca340c9c
-      - image: /images/personal-training.jpg
+      - image: /images/luke-philips-coaching-push-kick.jpg
+        thumbnail: /images/luke-philips-coaching-push-kick.jpg
         name: Personal Training
         link: /class/personal-training-8/
-      - image: /images/memberships.jpg
+      - image: /images/adult-students-gfc-boxing-ring.jpg
+        thumbnail: /images/adult-students-gfc-boxing-ring.jpg
         name: Memberships
         link: /join/
-      - image: /images/muay-thai-shop.jpg
+      - image: /images/infightstyle-classic-boxing-glove.jpg
+        thumbnail: /images/infightstyle-classic-boxing-glove.jpg
         name: Muay Thai Shop
         link: https://www.themuaythaishop.co.uk/
 
