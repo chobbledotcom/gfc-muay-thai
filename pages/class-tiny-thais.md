@@ -36,6 +36,4 @@ blocks:
         description: Age-appropriate movement helps children develop balance, coordination and physical confidence.
       - name: Confidence and teamwork
         description: A structured class can help children practise focus, discipline, respect and working with others.
-      - name: Friends and belonging
-        description: Children can learn alongside others their age, make new friends and feel part of the GFC community.
 ---

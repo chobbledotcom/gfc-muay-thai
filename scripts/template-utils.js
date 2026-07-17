@@ -8,7 +8,7 @@ const rootExcludes = [
   ".git",
   ".direnv",
   "*.nix",
-  "CLAUDE.md",
+  "AGENTS.md",
   "README.md",
   "TODO.md",
   ".build",
