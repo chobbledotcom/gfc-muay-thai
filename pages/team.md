@@ -29,7 +29,7 @@ blocks:
     image_aspect_ratio: "4/3"
   - type: cta
     content: |
-      ## Book your trial Muay Thai session
+      ## Plan your first Muay Thai session
     button:
       text: View timetable
       href: /timetable/

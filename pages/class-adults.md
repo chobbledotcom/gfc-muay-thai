@@ -1,14 +1,14 @@
 ---
-name: Adults
+name: Adult
 permalink: /class/adults/
 redirect_from:
   - /class/adults-3/
 meta_title: Adult Muay Thai Classes in Bury | GFC Muay Thai
 meta_description: Beginner-friendly adult Muay Thai classes in Bury for ages 15+, with All Levels, technical and optional coach-controlled sparring sessions.
 eleventyNavigation:
-  key: Adults
+  key: Adult
   parent: Classes
-  order: 2
+  order: 3
 blocks:
   - type: split-image
     compact: true
@@ -16,11 +16,11 @@ blocks:
     content: |
       # Adult Muay Thai classes in Bury
 
-      Start with the fundamentals or build on years of experience. GFC runs beginner courses, regular adult classes, fighter sessions and dedicated sparring for those who are ready.
+      Start with the fundamentals or build on years of experience. We recommend Adult Beginners / Muay Thai Basics if you can make it. Adult All Levels is also suitable for beginners and has multiple coaches on hand.
 
       You do not need to be fit before you begin. Show up, learn at your level and build technique, conditioning and confidence one session at a time.
     button:
-      text: Book a trial
+      text: View the timetable
       href: /timetable/
       variant: secondary
     figure_src: /images/adult-students-gfc-boxing-ring.jpg
@@ -40,7 +40,7 @@ blocks:
 
   - type: cta
     content: |
-      ## Book your trial Muay Thai session
+      ## Plan your first Muay Thai session
     button:
       text: View timetable
       href: /timetable/

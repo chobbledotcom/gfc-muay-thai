@@ -31,7 +31,7 @@ blocks:
     content: |
       ## Personal training with Luke
 
-      Luke has more than 25 years of Muay Thai experience. He competed as a decorated junior and an unbeaten adult fighter, trained in Thailand and built a professional career before moving into full-time coaching.
+      [Luke](/team/luke-phillips/) has more than 25 years of Muay Thai experience. He won multiple junior titles, remained unbeaten during his adult fights and trained extensively in Thailand before moving into full-time coaching.
 
       He has also worked as a referee and judge on leading shows, including ONE Championship, Hitman Fight League and Yokkao.
 
@@ -58,7 +58,7 @@ blocks:
     right_content: |
       ## Personal training with Ryan or Daniel
 
-      Ryan and [Daniel](/team/daniel-oxley/) offer personal training for adults and juniors. Daniel has more than ten years of Muay Thai experience and won all three of his fights during a three-month stay in Thailand.
+      [Ryan](/team/ryan-shaw/) and [Daniel](/team/daniel-oxley/) offer personal training for adults and juniors. Daniel has more than ten years of Muay Thai experience and won all three of his fights during a three-month stay in Thailand.
 
       **Adult, 1 hour: £35**
 

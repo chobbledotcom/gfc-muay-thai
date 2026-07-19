@@ -15,17 +15,17 @@ blocks:
     content: |
       # The GFC Muay Thai website launch
 
-      This article marked the launch of GFC's website, bringing class information, coaching profiles and gym updates together in one place.
+      GFC launched its new website to bring class information, coaching profiles, timetables and gym updates together in one place.
   - type: features
     intro_content: |
       ## Explore GFC online
     items:
       - name: Find your class
-        description: Explore [Muay Thai classes](/class/) for juniors, adults, women and personal-training clients.
+        description: Explore [Muay Thai classes](/class/) for juniors, teens, adults and women, plus one-to-one personal training.
       - name: Meet the coaches
         description: Learn more about the experience behind each session on our [team page](/team/).
       - name: Follow gym updates
-        description: Follow fight news, competition results and gym announcements on [Facebook](https://www.facebook.com/GFCMuayThai/) and [Instagram](https://www.instagram.com/gfcmuaythai/). Forthcoming event details will appear on our [Events page](/events/).
+        description: Follow fight news, competition results, event details and gym announcements on [Facebook](https://www.facebook.com/GFCMuayThai/) and [Instagram](https://www.instagram.com/gfcmuaythai/).
 
   - type: cta
     content: |

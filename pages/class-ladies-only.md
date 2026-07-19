@@ -1,14 +1,14 @@
 ---
-name: Ladies Only
+name: Women
 permalink: /class/ladies-only/
 redirect_from:
   - /class/ladies-only-4/
 meta_title: Ladies-Only Muay Thai Classes in Bury | GFC Muay Thai
-meta_description: Women-only Muay Thai training in Bury for ages 16+, with beginners welcome and coaching for fitness, technique or competition.
+meta_description: Women-only Muay Thai training in Bury, with beginners welcome and coaching for fitness, technique or competition.
 eleventyNavigation:
-  key: Ladies Only
+  key: Women
   parent: Classes
-  order: 3
+  order: 4
 blocks:
   - type: split-image
     compact: true
@@ -20,7 +20,7 @@ blocks:
 
       Whether you want to improve your fitness, learn new skills or prepare for competition, you can progress at your own pace in a welcoming environment. There is no pressure, just good coaching and consistent work.
     button:
-      text: Book a trial
+      text: View the timetable
       href: /timetable/
       variant: secondary
     figure_src: /images/womens-heavy-bag-training.jpg
@@ -38,7 +38,7 @@ blocks:
 
   - type: cta
     content: |
-      ## Book your trial Muay Thai session
+      ## Plan your first Muay Thai session
     button:
       text: View timetable
       href: /timetable/

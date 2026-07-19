@@ -10,6 +10,7 @@
 - [ ] Add an `APIFY_API_KEY` or `APIFY_API_TOKEN` GitHub Actions secret so the Instagram feed can update automatically.
 - [ ] Provide portraits and any further biography details for Jodie Higson, Ryan Shaw and Jae Clarke.
 - [ ] Provide the other two class-video URLs for the homepage. One of the three requested videos has been supplied and embedded.
+- [ ] Provide the approved whole-gym image for the homepage.
 - [ ] Provide forthcoming event details, or confirm that the Events page should remain marked "Coming soon".
 - [ ] Confirm whether the Members Area should offer browser sign-in; if so, provide an external sign-in and password-reset URL.
 - [ ] Provide the original `umGVDPN.png` and `bgkqC2B.png` images if they should be retained.

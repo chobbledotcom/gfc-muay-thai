@@ -7,7 +7,7 @@ redirect_from:
   - /timetablebyday/0c55dfe2-fbf8-45a6-a543-5ec4c4fe1acf/
   - /timetablebyage/0c55dfe2-fbf8-45a6-a543-5ec4c4fe1acf/
 meta_title: Muay Thai Timetable in Bury | GFC Muay Thai
-meta_description: View GFC Muay Thai's weekly class timetable in Bury and enquire about a free trial session.
+meta_description: View GFC Muay Thai's weekly class timetable in Bury and enquire about a trial session.
 eleventyNavigation:
   key: Timetable
   order: 2
@@ -17,7 +17,7 @@ blocks:
     image_alt: A black GFC Muay Thai and InFightStyle heavy bag hanging beside the gym windows
     parallax: true
     tint: true
-    badge: Free taster classes
+    badge: Classes for all levels
     content: |
       # Muay Thai class timetable in Bury
 
@@ -39,7 +39,7 @@ blocks:
           - **09:00-10:30:** Fighters Class, invite only
           - **17:15-18:45:** Kids and Teens Advanced / Fighters, ages 6-15
           - **19:00-20:00:** Adult Advanced Tech, ages 15+
-          - **20:15-21:15:** Ladies-Only Muay Thai, ages 16+
+          - **20:15-21:15:** Ladies-Only Muay Thai
       - name: Wednesday
         description: |
           - **09:00-10:30:** Fighters Class, invite only

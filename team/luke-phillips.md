@@ -16,7 +16,7 @@ blocks:
 
       ## Coach
 
-      Luke Phillips grew up in Muay Thai gyms and began training before he was three. He had his first fight at seven, won multiple titles as a junior and remained unbeaten as an adult before ending a short professional career and moving into full-time coaching. He now has more than 25 years of Muay Thai experience.
+      Luke Phillips grew up in Muay Thai gyms and began training before he was three. He had his first fight at seven, won multiple titles as a junior and remained unbeaten during his adult fights. He now has more than 25 years of Muay Thai experience.
 
       Across around five trips, Luke spent roughly nine months living and training alongside Thai fighters at camps in Thailand. After injuries, infections and a knee operation, he stopped competing and focused on coaching. He has also worked as a referee and judge at ONE Championship, Hitman Fight League and Yokkao.
     figure_src: /images/luke-philips.jpg

@@ -16,7 +16,7 @@ blocks:
 
       ## Coach
 
-      Daniel has more than ten years of Muay Thai experience and has lived and competed in Thailand. During a three-month stay there, he won all three of his fights and was recorded as unbeaten at that stage of his career.
+      Daniel has more than ten years of Muay Thai experience and has lived and competed in Thailand. During a three-month stay there, he won all three of his fights.
 
       His precise, fundamentals-led approach helps GFC students at every level develop sound technique.
     figure_src: /images/danniel-oxley.jpg

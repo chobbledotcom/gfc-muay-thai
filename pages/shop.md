@@ -13,7 +13,7 @@ blocks:
     content: |
       # Train in the right kit
 
-      Muay Thai Shop UK is the exclusive UK distributor of InFightStyle, offering gloves, shorts, apparel and training equipment.
+      Muay Thai Shop UK stocks InFightStyle gloves, shorts, apparel and training equipment.
     buttons:
       - text: Visit the online shop
         href: https://www.themuaythaishop.co.uk/

@@ -27,7 +27,7 @@ blocks:
         thumbnail: /images/junior-students-gfc-boxing-ring.jpg
         name: Teen Classes, Ages 12-15
         description: Two weekly All Levels classes, plus two Advanced and Fighters sessions for experienced students and those preparing to compete.
-        link: /class/juniors/
+        link: /class/teens/
       - image: /images/adult-students-gfc-boxing-ring.jpg
         thumbnail: /images/adult-students-gfc-boxing-ring.jpg
         name: Adult Classes, Ages 15+
@@ -35,7 +35,7 @@ blocks:
         link: /class/adults/
       - image: /images/womens-heavy-bag-training.jpg
         thumbnail: /images/womens-heavy-bag-training.jpg
-        name: Women's Classes, Ages 16+
+        name: Women's Classes
         description: Women-only Muay Thai sessions for beginners and experienced students training for fitness, technique or competition.
         link: /class/ladies-only/
 
@@ -68,7 +68,7 @@ blocks:
 
   - type: cta
     content: |
-      ## Book your trial Muay Thai session
+      ## Plan your first Muay Thai session
     button:
       text: View timetable
       href: /timetable/

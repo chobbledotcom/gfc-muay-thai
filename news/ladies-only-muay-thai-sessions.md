@@ -14,29 +14,23 @@ blocks:
       # Ladies-only Muay Thai sessions
   - type: markdown
     content: |
-      Originally published to announce GFC's ladies-only Muay Thai sessions, this article introduces the class and our 5,000+ sq ft training facility in Bury. If you are looking for a dynamic way to improve your fitness while learning Muay Thai, our classes are open to women of all experience levels.
+      GFC introduced ladies-only Muay Thai sessions at our Bright Street Mill gym in Bury. Women can start without previous Muay Thai experience and work at their own pace.
 
       ## Why Muay Thai?
 
-      Known as the "art of eight limbs", Muay Thai combines punches, kicks, knees and elbows. It provides varied, full-body training that develops skill, fitness and confidence.
+      Muay Thai uses punches, kicks, knees and elbows. Sessions combine technical coaching with bag work, pad work and fitness.
 
   - type: features
     dark: true
     intro_content: |
-      ## Benefits of training
+      ## Training in the ladies-only session
     items:
-      - name: Strength and stamina
-        description: Build cardiovascular fitness and full-body strength through varied, high-energy training.
-      - name: Mobility
-        description: Develop flexibility, coordination and range of motion through structured practice.
-      - name: Confidence
-        description: Build confidence as your technique and fitness improve.
-      - name: Community
-        description: Train with like-minded women in a safe and encouraging environment.
-      - name: Practical skills
-        description: Practise punches, kicks, blocks and clinch work used in Muay Thai and self-defence.
-      - name: Focus and discipline
-        description: Work through coached combinations and build consistency session by session.
+      - name: Start from scratch
+        description: Beginners can learn the fundamentals without needing previous martial arts experience.
+      - name: Work at your pace
+        description: Build fitness and technique steadily without being expected to match experienced students.
+      - name: Choose your goal
+        description: Train for enjoyment, fitness and technical progress, or work towards competition if you choose.
 
   - type: split-full
     variant: primary-left

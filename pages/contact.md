@@ -26,10 +26,12 @@ blocks:
     figure_src: /images/gfc-muay-thai-heavy-bag.jpg
     figure_alt: A black GFC Muay Thai and InFightStyle heavy bag hanging beside the gym windows
 
-  - type: contact-form
-    intro_content: |
-      ## Contact us
+  - type: markdown
     content: |
+      ## Contact us
+
+      Our [FAQs](/faq/) cover the questions we hear most often. If your question is not answered there, contact us by email or phone.
+
       [luke@gfcmuaythai.co.uk](mailto:luke@gfcmuaythai.co.uk)
 
       [07931 239316](tel:07931239316)

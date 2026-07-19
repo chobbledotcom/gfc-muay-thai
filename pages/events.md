@@ -4,7 +4,7 @@ permalink: /events/
 redirect_from:
   - /forthcomingevents/
 meta_title: Events | GFC Muay Thai
-meta_description: Forthcoming GFC Muay Thai event details will be published here.
+meta_description: Follow GFC Muay Thai for upcoming fight shows, competitions and gym events in Bury.
 eleventyNavigation:
   key: Events
   order: 5
@@ -17,5 +17,5 @@ blocks:
     content: |
       # Events
 
-      Forthcoming event details will be published here. Please check back soon.
+      We share upcoming fight shows, competitions and gym events on [Facebook](https://www.facebook.com/GFCMuayThai/) and [Instagram](https://www.instagram.com/gfcmuaythai/).
 ---

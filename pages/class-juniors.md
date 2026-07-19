@@ -1,27 +1,27 @@
 ---
-name: Juniors
+name: Junior
 permalink: /class/juniors/
 redirect_from:
   - /class/juniors-2/
   - /class/juniors-9/
-meta_title: Junior & Teen Muay Thai in Bury | GFC Muay Thai
-meta_description: Junior Muay Thai classes in Bury for ages 6-11 and teen classes for ages 12-15, with beginner and advanced training at GFC.
+meta_title: Junior Muay Thai in Bury | GFC Muay Thai
+meta_description: Junior Muay Thai classes in Bury for ages 6-11, with active, varied sessions and coaching for complete beginners and experienced students.
 eleventyNavigation:
-  key: Juniors
+  key: Junior
   parent: Classes
   order: 1
 blocks:
   - type: split-image
     compact: true
-    subtitle: Juniors ages 6-11 and teens ages 12-15
+    subtitle: Ages 6-11
     content: |
-      # Junior and teen Muay Thai classes in Bury
+      # Junior Muay Thai classes in Bury
 
-      Our junior and teen sessions give young people a high-energy introduction to Muay Thai while building fitness, confidence and discipline.
+      Our junior sessions give children an active introduction to Muay Thai while building fitness, confidence and discipline.
 
-      Beginners learn the fundamentals properly, while experienced juniors keep progressing through more challenging technical work.
+      Several coaches work in the junior sessions. A new starter can learn the basics separately with a coach before joining the rest of the class, while experienced juniors keep progressing through more challenging technical work.
     button:
-      text: Book a trial
+      text: View the timetable
       href: /timetable/
       variant: secondary
     figure_src: /images/girls-muay-thai-partner-drill.jpg
@@ -61,13 +61,13 @@ blocks:
     content: |
       ## Strong foundations, safe progress
 
-      Good coaching is about more than combinations. Our team pays attention to warm-ups, movement, technique and recovery so every junior can progress safely and confidently.
+      Good coaching is about more than combinations. Our team keeps the activities varied and the class moving so juniors stay involved while learning the techniques properly.
     figure_src: /images/luke-philips-junior-floor-stretch.jpg
     figure_alt: Luke Phillips helps a junior student through a floor stretching exercise during class
 
   - type: cta
     content: |
-      ## Book your trial Muay Thai session
+      ## Plan your first Muay Thai session
     button:
       text: View timetable
       href: /timetable/

@@ -22,7 +22,7 @@ blocks:
 
       Billy Greenwood and Dan Bradley also won for GFC on the Horwich show. Chris Yeomans and Steve Conlon represented the gym too.
 
-      The report is 20 years old now, but Luke is still at GFC. He went on to win more junior titles, compete unbeaten as an adult and spend time living and training in camps in Thailand. He now coaches full-time and runs the gym with Jodie Higson, working with young fighters who are starting where he did.
+      Since winning that title in 2006, Luke has won more junior titles, competed unbeaten as an adult and spent time living and training in camps in Thailand. He now coaches full-time and runs GFC with Jodie Higson, working with young fighters who are starting where he did.
 
       [Read "Luke gets his kicks from Thai" in The Bolton News](https://www.theboltonnews.co.uk/news/6238418.luke-gets-his-kicks-from-thai/).
 ---

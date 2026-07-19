@@ -19,7 +19,7 @@ blocks:
 
       Below are some of the questions we get week in, week out and have done for the 29 years we have been open.
     button:
-      text: Book a trial
+      text: View the timetable
       href: /timetable/
       variant: secondary
     figure_src: /images/girl-blue-boxing-gloves-portrait.jpg
@@ -61,9 +61,7 @@ blocks:
       ## Practical questions
     items:
       - question: What should I wear to a Muay Thai class?
-        answer: Wear gym shorts or leggings that finish above the knee and a T-shirt. You can train barefoot. Gloves and shin guards are available if you do not have your own.
-      - question: How often should a beginner train?
-        answer: Once or twice a week is a sensible place to start. You can increase that when your body has adjusted and you want to do more.
+        answer: Wear comfortable sportswear that lets you move freely. Ask us before your first session if you are unsure what clothing or equipment to bring.
       - question: Can I pay as I go?
         answer: Yes. Adult sessions cost £11.50, or £10 when paying cash at the gym. Junior and teen sessions cost £7, or £6 in cash. Monthly memberships are also available if you train regularly.
       - question: Can I book private one-to-one training?
