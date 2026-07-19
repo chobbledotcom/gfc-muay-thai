@@ -23,6 +23,7 @@ export const sourceExcludes = [
   "package*.json",
   "bun.lock",
   "_site",
+  "beeper-export",
   "old_site",
   "chobble-template",
   ...(process.env.PLACEHOLDER_IMAGES === "1" ? ["images"] : []),

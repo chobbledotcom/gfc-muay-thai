@@ -1,6 +1,6 @@
 ---
 name: Lewis George
-order: 4
+order: 2
 subtitle: Coach
 thumbnail: /images/lewis-george.jpg
 permalink: /team/lewis-george/

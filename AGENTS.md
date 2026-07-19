@@ -263,7 +263,8 @@ Use these details to demonstrate GFC's experience and expertise. Prefer the spec
 - Darren opened Heywood Thai Boxing Club in 1983 and established what became GFC Muay Thai in 1986.
 - GFC has operated from different premises during its history. Do not include former addresses in public copy because other martial arts businesses now use them. Focus location information on the current Bright Street Mill gym.
 - Luke Phillips and Jodie Higson run GFC. Members helped them prepare and reopen the Bright Street Mill gym in 2024 by carrying cement, moving wheelbarrows and helping with building work. This is covered by a linked Bury Times report in `news/gfc-muay-thai-reopens-with-members-support.md`.
-- GFC describes its current facility as more than 5,000 sq ft, with 14 heavy bags, two 16 ft rings and fully matted training areas. It also has treadmills, an assault bike, a ski ergometer, weights and a preparation kitchen. See `news/ladies-only-muay-thai-sessions.md`.
+- GFC describes its current facility as more than 5,000 sq ft, with 20 heavy bags, two 16 ft rings and fully matted training areas. It also has treadmills, an assault bike, a ski ergometer, weights and a preparation kitchen. GFC has a brand partnership with InFightStyle. See `news/ladies-only-muay-thai-sessions.md`.
+- Jojo's Flavours is a meal-prep company based inside the gym. Its Instagram account is `https://www.instagram.com/jojosflavourss/`.
 - The client describes GFC as `Bury's biggest Muay Thai centre`. Use this wording rather than inventing a wider regional or national comparison.
 
 ### Coaching And Competition

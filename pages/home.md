@@ -53,7 +53,7 @@ blocks:
 
       Darren Phillips began training with Master Sken and Sandy Holt in 1983 and established the club that became GFC. Luke Phillips started before he was three, competed unbeaten as an adult and now runs GFC with Jodie Higson.
 
-      The current Bright Street Mill facility covers more than 5,000 sq ft, with 14 heavy bags, two 16 ft rings and fully matted training areas.
+      The current Bright Street Mill facility covers more than 5,000 sq ft, with 20 heavy bags, two 16 ft rings and fully matted training areas. InFightStyle is GFC's brand partner, and we use its equipment throughout the gym.
     button:
       text: Meet the coaching team
       href: /team/
@@ -69,25 +69,26 @@ blocks:
       - name: Monday
         description: |
           - **09:00-10:30:** Fighters Class, invite only
-          - **17:00-17:45:** Juniors, ages 6-11
-          - **17:45-18:45:** Teens All Levels, ages 12-15
+          - **17:00-17:45:** Junior Muay Thai, ages 6-11
+          - **17:45-18:45:** Teen Muay Thai, ages 12-15
           - **19:00-20:15:** Adult All Levels, ages 15+
       - name: Tuesday
         description: |
           - **09:00-10:30:** Fighters Class, invite only
           - **17:15-18:45:** Kids and Teens Advanced / Fighters, ages 6-15
-          - **18:45-20:00:** Adult Advanced Technical Class, ages 15+
+          - **19:00-20:00:** Adult Advanced Tech, ages 15+
           - **20:15-21:15:** Ladies-Only Muay Thai, ages 16+
       - name: Wednesday
         description: |
           - **09:00-10:30:** Fighters Class, invite only
           - **17:15-18:45:** Kids and Teens Advanced / Fighters, ages 6-15
-          - **18:45-20:00:** Adult All Levels, ages 15+
+          - **19:00-20:00:** Adult All Levels, ages 15+
+          - **20:00-20:30:** Adult Clinch / Sparring, ages 15+
       - name: Thursday
         description: |
           - **09:00-10:30:** Fighters Class, invite only
-          - **17:00-17:45:** Juniors, ages 6-11
-          - **17:45-18:45:** Teens All Levels, ages 12-15
+          - **17:00-17:45:** Junior Muay Thai, ages 6-11
+          - **17:45-18:45:** Teen Muay Thai, ages 12-15
           - **19:00-20:00:** Adult Beginners / Muay Thai Basics, ages 15+
           - **20:00-20:30:** Freestyle Pad Work, ages 15+
       - name: Friday

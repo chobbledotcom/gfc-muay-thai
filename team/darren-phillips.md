@@ -1,6 +1,7 @@
 ---
 name: Darren Phillips
 order: 2
+eleventyExcludeFromCollections: true
 subtitle: Coach
 thumbnail: /images/darren-phillips.jpg
 permalink: /team/darren-phillips/

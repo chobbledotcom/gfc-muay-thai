@@ -2,14 +2,14 @@
 name: Footer Content
 blocks:
   - type: socials
-    directory: social-posts
+    directory: instagram-posts
     horizontal: true
     dark: true
     compact: true
     intro_content: |
-      ## Latest from Facebook
+      ## Latest from Instagram
 
-      Training, fight news and gym updates from [GFC Muay Thai on Facebook](https://www.facebook.com/GFCMuayThai/).
+      Recent posts from [GFC Muay Thai on Instagram](https://www.instagram.com/gfcmuaythai/).
 ---
 
 <div class="footer-grid">
@@ -27,6 +27,7 @@ blocks:
       <li><a href="/timetable/">Timetable</a></li>
       <li><a href="/team/">Meet the team</a></li>
       <li><a href="/shop/">Muay Thai shop</a></li>
+      <li><a href="/meal-prep/">Meal prep at GFC</a></li>
       <li><a href="/contact/">Contact us</a></li>
     </ul>
   </div>
@@ -36,7 +37,7 @@ blocks:
       <li><a href="tel:07931239316">07931 239316</a></li>
       <li><a href="mailto:luke@gfcmuaythai.co.uk">luke@gfcmuaythai.co.uk</a></li>
       <li>1A Bright Street Mill, Bury, BL9 6AQ</li>
-      <li><a href="https://www.facebook.com/GFCMuayThai/">Follow us on Facebook</a></li>
+      <li><a href="https://www.instagram.com/gfcmuaythai/">Follow us on Instagram</a></li>
     </ul>
   </div>
 </div>

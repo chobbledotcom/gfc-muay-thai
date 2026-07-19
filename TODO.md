@@ -9,7 +9,8 @@
 - [ ] Provide an audited cookie list for the Cookie Policy, including embedded Google Maps and AdminMyMembers services.
 - [ ] Confirm the publication dates of the two existing news posts.
 - [ ] Confirm whether the older Juniors, Adults and Ladies Only class copy should be restored; the live class pages are empty.
-- [ ] Provide a start date for Tiny Thais classes, or confirm that the class should remain marked "Coming soon".
+- [ ] Add an `APIFY_API_KEY` or `APIFY_API_TOKEN` GitHub Actions secret so the Instagram feed can update automatically.
+- [ ] Provide portraits and any further biography details for Jodie Higson, Ryan Shaw and Jae Clarke.
 - [ ] Provide forthcoming event details, or confirm that the Events page should remain marked "Coming soon".
 - [ ] Confirm whether the Members Area should offer browser sign-in; if so, provide an external sign-in and password-reset URL.
 - [ ] Provide the original `umGVDPN.png` and `bgkqC2B.png` images if they should be retained.

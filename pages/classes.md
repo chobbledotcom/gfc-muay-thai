@@ -3,6 +3,8 @@ name: Classes
 permalink: /class/
 redirect_from:
   - /classes/
+  - /class/tiny-thais/
+  - /class/tiny-thais-1/
 meta_title: Classes | GFC Muay Thai
 eleventyNavigation:
   key: Classes
@@ -32,24 +34,19 @@ blocks:
         description: Focused one-to-one coaching tailored to your technique, fitness and experience.
         link: /class/personal-training/
 
-  - type: split-full
-    variant: primary-left
-    left_content: |
-      ## Tiny Thais
-
-      A playful first step into martial arts for children aged 3.5 to 5. Coming soon to GFC.
-    left_button:
-      text: Find out more
-      href: /class/tiny-thais/
-      variant: secondary
-    right_content: |
+  - type: split-image
+    compact: true
+    dark: true
+    content: |
       ## Muay Thai Shop UK
 
       Gloves, shorts, apparel and training equipment from InFightStyle, available through our specialist store.
-    right_button:
+    button:
       text: Visit the shop
       href: /shop/
       variant: secondary
+    figure_src: /images/muay-thai-shop.jpg
+    figure_alt: Muay Thai gloves, shorts and training equipment available from Muay Thai Shop UK
 
   - type: cta
     content: |

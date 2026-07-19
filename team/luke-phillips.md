@@ -16,7 +16,7 @@ blocks:
 
       Luke Phillips grew up in Muay Thai gyms and began training before he was three. He has more than 25 years of Muay Thai experience, won multiple titles as a junior and remained unbeaten as an adult before ending a short professional career and moving into full-time coaching.
 
-      Luke combines his experience in England with extensive time spent living and training alongside Thai fighters at camps in Thailand. He has also worked as a referee and judge at ONE Championship, Hitman Fight League and Yokkao.
+      Across around five trips, Luke spent roughly nine months living and training alongside Thai fighters at camps in Thailand. After injuries, infections and a knee operation, he stopped competing and focused on coaching. He has also worked as a referee and judge at ONE Championship, Hitman Fight League and Yokkao.
     figure_src: /images/luke-philips.jpg
     figure_alt: Luke Phillips standing beside a Muay Thai fighter at a boxing ring
 
@@ -24,13 +24,15 @@ blocks:
     dark: true
     compact: true
     reverse: true
-    subtitle: Coaching the next generation
+    subtitle: Running GFC
     content: |
-      ## Technique that starts with the fundamentals
+      ## Building the current gym
 
-      Luke began training before he was three and understands how much the right coaching matters at every stage of development.
+      Luke returned to Muay Thai at about 15 after several years away. When Darren decided to step back from running GFC, Luke took over and adapted the sessions for members training for fitness and enjoyment as well as the fight team. He now runs GFC with Jodie Higson.
 
-      His junior sessions balance detail, discipline and enjoyment so young students can build strong habits without losing their enthusiasm for the sport.
+      As classes became busier, Luke and Jodie moved GFC into the larger Bright Street Mill gym in 2024. Luke refurbished the space with practical help from members and support from GFC's brand partner, InFightStyle.
+
+      Luke coached Lewis George from age five to 21. Lewis is now a full-time professional fighter. Luke has also seen quiet, shy children grow into confident young adults after years of training at GFC.
     button:
       text: Explore junior classes
       href: /class/juniors/

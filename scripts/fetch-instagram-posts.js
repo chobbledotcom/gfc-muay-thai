@@ -1,5 +1,6 @@
 #!/usr/bin/env bun
 
+import { readdirSync } from "node:fs";
 import { join } from "node:path";
 import { exists, fs, loadEnv, path, readJson, write } from "./utils.js";
 
@@ -7,11 +8,13 @@ await loadEnv();
 
 const CONFIG = {
   siteConfig: path("_data", "site.json"),
-  postsDir: path("instagram-posts"),
-  imagesDir: path("images", "instagram-posts"),
   actorId: "shu8hvrXbJbY3Eb9W",
   resultsLimit: 100,
+  postsToKeep: 12,
+  mealPrepUrl: "https://www.instagram.com/jojosflavourss/",
 };
+
+const apifyToken = process.env.APIFY_API_KEY || process.env.APIFY_API_TOKEN;
 
 const formatTimestamp = (iso) =>
   iso.replace(/[:.]/g, "-").replace(/-\d{3}Z$/, "Z");
@@ -22,7 +25,7 @@ const extractUsername = (instagramUrl) => {
 };
 
 const fetchPosts = async (profileUrl) => {
-  const url = `https://api.apify.com/v2/acts/${CONFIG.actorId}/run-sync-get-dataset-items?token=${process.env.APIFY_API_TOKEN}`;
+  const url = `https://api.apify.com/v2/acts/${CONFIG.actorId}/run-sync-get-dataset-items?token=${apifyToken}`;
 
   console.log(`Fetching posts for ${profileUrl}...`);
 
@@ -48,7 +51,9 @@ const fetchPosts = async (profileUrl) => {
       title: p.caption || "",
       url: p.url,
       thumbnail: p.displayUrl,
-    }));
+    }))
+    .toSorted((a, b) => Date.parse(b.date) - Date.parse(a.date))
+    .slice(0, CONFIG.postsToKeep);
 };
 
 const downloadImage = async (imageUrl, filepath) => {
@@ -57,17 +62,17 @@ const downloadImage = async (imageUrl, filepath) => {
   await write(filepath, await res.arrayBuffer());
 };
 
-const savePost = async (post) => {
+const savePost = async (target, post) => {
   const slug = formatTimestamp(post.date);
-  const jsonPath = join(CONFIG.postsDir, `${slug}.json`);
-  const imagePath = join(CONFIG.imagesDir, `${slug}.jpg`);
+  const jsonPath = join(target.postsDir, `${slug}.json`);
+  const imagePath = join(target.imagesDir, `${slug}.jpg`);
 
   if (await exists(jsonPath)) return false;
 
   await downloadImage(post.thumbnail, imagePath);
 
   const record = {
-    thumbnail: `/images/instagram-posts/${slug}.jpg`,
+    thumbnail: `/images/${target.directory}/${slug}.jpg`,
     title: post.title,
     date: post.date,
     url: post.url,
@@ -78,9 +83,51 @@ const savePost = async (post) => {
   return true;
 };
 
+const removeOldPosts = (target, posts) => {
+  const currentSlugs = new Set(posts.map((post) => formatTimestamp(post.date)));
+  for (const filename of readdirSync(target.postsDir)) {
+    if (!filename.endsWith(".json")) continue;
+    const slug = filename.replace(/\.json$/, "");
+    if (currentSlugs.has(slug)) continue;
+    fs.rm(join(target.postsDir, filename));
+    fs.rm(join(target.imagesDir, `${slug}.jpg`));
+  }
+};
+
+const createTarget = (name, profileUrl, directory) => ({
+  name,
+  profileUrl,
+  directory,
+  postsDir: path(directory),
+  imagesDir: path("images", directory),
+});
+
+const syncTarget = async (target) => {
+  fs.mkdir(target.postsDir);
+  fs.mkdir(target.imagesDir);
+
+  const posts = await fetchPosts(target.profileUrl);
+  const postSlugs = new Set(posts.map((post) => formatTimestamp(post.date)));
+  if (posts.length !== CONFIG.postsToKeep || postSlugs.size !== posts.length) {
+    throw new Error(
+      `Expected ${CONFIG.postsToKeep} unique Instagram posts for ${target.name}`,
+    );
+  }
+  console.log(`Found ${posts.length} posts for ${target.name}`);
+
+  const saved = (
+    await Promise.all(posts.map((post) => savePost(target, post)))
+  ).filter(Boolean).length;
+  removeOldPosts(target, posts);
+
+  console.log(
+    `Saved ${saved} new posts for ${target.name} (${posts.length - saved} already existed)`,
+  );
+};
+
 const main = async () => {
-  if (!process.env.APIFY_API_TOKEN) {
-    console.error("Error: APIFY_API_TOKEN required in .env file");
+  if (!apifyToken) {
+    console.error("Error: APIFY_API_KEY required in .env file");
     console.error("Get token: https://console.apify.com/account/integrations");
     process.exit(1);
   }
@@ -97,17 +144,13 @@ const main = async () => {
     process.exit(1);
   }
 
-  fs.mkdir(CONFIG.postsDir);
-  fs.mkdir(CONFIG.imagesDir);
-
-  const posts = await fetchPosts(instagramUrl);
-  console.log(`Found ${posts.length} posts`);
-
-  const saved = (await Promise.all(posts.map(savePost))).filter(Boolean).length;
-
-  console.log(
-    `\nSaved ${saved} new posts (${posts.length - saved} already existed)`,
-  );
+  const targets = [
+    createTarget("GFC Muay Thai", instagramUrl, "instagram-posts"),
+    createTarget("Jojo's Flavours", CONFIG.mealPrepUrl, "meal-prep-posts"),
+  ];
+  for (const target of targets) {
+    await syncTarget(target);
+  }
 };
 
 if (import.meta.main) {

@@ -16,6 +16,8 @@ blocks:
       You do not need experience, specialist equipment or a competition goal to start training at GFC.
 
       Come in comfortable sportswear, bring some water and be ready to learn. We can help with the rest.
+
+      These are questions we hear every week.
     button:
       text: Book a trial
       href: /timetable/

@@ -23,7 +23,7 @@ blocks:
     intro_content: |
       ## InFightStyle at GFC
 
-      Explore equipment for real training, from first sessions to fight preparation.
+      InFightStyle is GFC's brand partner, and we use its equipment throughout the gym.
     image_aspect_ratio: "3/4"
     items:
       - image: /images/infightstyle-classic-boxing-glove.jpg
@@ -38,6 +38,16 @@ blocks:
         name: Used at GFC
         description: GFC uses InFightStyle equipment throughout the gym.
         link: https://www.themuaythaishop.co.uk/
+
+  - type: cta
+    content: |
+      ## Meal prep at GFC
+
+      Jojo's Flavours is a meal-prep company based inside the gym. See its recent meals and contact Jojo's Flavours directly to order.
+    button:
+      text: See the latest meals
+      href: /meal-prep/
+      variant: secondary
 
   - type: cta
     content: |

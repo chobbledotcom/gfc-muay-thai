@@ -57,6 +57,10 @@ export const prep = () => {
   }
 
   find.deleteByExt(dev, ".md");
+  fs.rm(join(dev, "src", "instagram-posts"));
+  fs.rm(join(dev, "src", "meal-prep-posts"));
+  fs.rm(join(dev, "src", "images", "instagram-posts"));
+  fs.rm(join(dev, "src", "images", "meal-prep-posts"));
   mergeTemplateAndSource(template, root, dev, {
     delete: true,
     templateExcludes,

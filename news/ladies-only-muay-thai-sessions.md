@@ -48,7 +48,7 @@ blocks:
     right_content: |
       ## Our Bury facility
 
-      Train with 14 heavy bags, two 16 ft rings and fully matted areas in our 5,000+ sq ft gym.
+      Train with 20 heavy bags, two 16 ft rings and fully matted areas in our 5,000+ sq ft gym.
 
       The facility also includes treadmills, an assault bike, a ski ergometer, weights and a preparation kitchen.
 

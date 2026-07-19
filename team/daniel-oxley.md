@@ -1,6 +1,6 @@
 ---
 name: Daniel Oxley
-order: 5
+order: 6
 subtitle: Coach
 thumbnail: /images/danniel-oxley.jpg
 permalink: /team/daniel-oxley/

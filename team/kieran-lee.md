@@ -1,6 +1,7 @@
 ---
 name: Kieran Lee
 order: 3
+eleventyExcludeFromCollections: true
 subtitle: Coach
 thumbnail: /images/kieran-lee.jpg
 permalink: /team/kieran-lee/
