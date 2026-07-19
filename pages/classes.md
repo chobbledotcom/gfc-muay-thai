@@ -16,24 +16,41 @@ blocks:
       # Muay Thai classes in Bury
 
       Choose the class for your age and experience. You can start from scratch, work on your technique or train towards competition, with the same attention to strong fundamentals in every session.
-    image_aspect_ratio: "3/4"
+    image_aspect_ratio: "4/3"
     items:
-      - image: /images/junior-roundhouse-kick-padwork.jpg
-        name: Juniors
-        description: Junior classes for ages 6 to 11 and teen classes for ages 12 to 15, built around fitness, confidence and discipline.
+      - image: /images/girls-muay-thai-partner-drill.jpg
+        thumbnail: /images/girls-muay-thai-partner-drill.jpg
+        name: Junior Classes, Ages 6-11
+        description: Fun, active sessions that change activities regularly to keep children involved while they learn the fundamentals of Muay Thai.
         link: /class/juniors/
-      - image: /images/adult-muay-thai-padwork.jpg
-        name: Adults
-        description: Beginner-friendly training, with routes into sparring and fighter development for people aged 15 and over.
+      - image: /images/junior-students-gfc-boxing-ring.jpg
+        thumbnail: /images/junior-students-gfc-boxing-ring.jpg
+        name: Teen Classes, Ages 12-15
+        description: Two weekly All Levels classes, plus two Advanced and Fighters sessions for experienced students and those preparing to compete.
+        link: /class/juniors/
+      - image: /images/adult-students-gfc-boxing-ring.jpg
+        thumbnail: /images/adult-students-gfc-boxing-ring.jpg
+        name: Adult Classes, Ages 15+
+        description: Begin with Muay Thai Basics, join an All Levels class or progress into advanced technical work and optional sparring.
         link: /class/adults/
-      - image: /images/ladies-only-muay-thai.jpeg
-        name: Ladies Only
-        description: A supportive women-only class for fitness, technique, confidence and competition goals.
+      - image: /images/womens-heavy-bag-training.jpg
+        thumbnail: /images/womens-heavy-bag-training.jpg
+        name: Women's Classes, Ages 16+
+        description: Women-only Muay Thai sessions for beginners and experienced students training for fitness, technique or competition.
         link: /class/ladies-only/
-      - image: /images/luke-philips-coaching-push-kick.jpg
-        name: Personal Training
-        description: Focused one-to-one coaching tailored to your technique, fitness and experience.
-        link: /class/personal-training/
+
+  - type: split-image
+    compact: true
+    content: |
+      ## One-to-one Muay Thai training
+
+      Personal training is available for adults and juniors who want a session focused on their technique, fitness and experience.
+    button:
+      text: Explore personal training
+      href: /class/personal-training/
+      variant: secondary
+    figure_src: /images/luke-philips-coaching-push-kick.jpg
+    figure_alt: Luke Phillips coaching a Muay Thai student through a push kick
 
   - type: split-image
     compact: true

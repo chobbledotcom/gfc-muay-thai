@@ -44,6 +44,11 @@ blocks:
         name: Adult Classes, Ages 15+
         description: Begin with Muay Thai Basics, join an All Levels class or progress into advanced technical work and optional sparring.
         link: /class/adults/
+      - image: /images/womens-heavy-bag-training.jpg
+        thumbnail: /images/womens-heavy-bag-training.jpg
+        name: Women's Classes, Ages 16+
+        description: Women-only Muay Thai sessions for beginners and experienced students training for fitness, technique or competition.
+        link: /class/ladies-only/
 
   - type: socials
     directory: instagram-posts
