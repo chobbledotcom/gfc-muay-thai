@@ -45,6 +45,30 @@ blocks:
         description: Begin with Muay Thai Basics, join an All Levels class or progress into advanced technical work and optional sparring.
         link: /class/adults/
 
+  - type: socials
+    directory: instagram-posts
+    horizontal: true
+    dark: true
+    compact: true
+    intro_content: |
+      ## Latest from Instagram
+
+      Recent posts from [GFC Muay Thai on Instagram](https://www.instagram.com/gfcmuaythai/).
+
+  - type: split-video
+    compact: true
+    subtitle: Adult sessions at GFC
+    content: |
+      ## Hear about the classes from Luke
+
+      Luke talks through GFC's adult sessions and the options available for different levels of experience.
+    button:
+      text: Explore adult classes
+      href: /class/adults/
+      variant: secondary
+    figure_video_id: Fl-m-KNQmDQ
+    figure_alt: Luke Phillips explains the adult sessions at GFC Muay Thai
+
   - type: split-image
     compact: true
     subtitle: Experience behind the coaching

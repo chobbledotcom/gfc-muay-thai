@@ -16,7 +16,7 @@ blocks:
 
       ## Coach
 
-      Luke Phillips grew up in Muay Thai gyms and began training before he was three. He has more than 25 years of Muay Thai experience, won multiple titles as a junior and remained unbeaten as an adult before ending a short professional career and moving into full-time coaching.
+      Luke Phillips grew up in Muay Thai gyms and began training before he was three. He had his first fight at seven, won multiple titles as a junior and remained unbeaten as an adult before ending a short professional career and moving into full-time coaching. He now has more than 25 years of Muay Thai experience.
 
       Across around five trips, Luke spent roughly nine months living and training alongside Thai fighters at camps in Thailand. After injuries, infections and a knee operation, he stopped competing and focused on coaching. He has also worked as a referee and judge at ONE Championship, Hitman Fight League and Yokkao.
     figure_src: /images/luke-philips.jpg
@@ -31,6 +31,8 @@ blocks:
       ## Building the current gym
 
       Luke returned to Muay Thai at about 15 after several years away. When Darren decided to step back from running GFC, Luke took over and adapted the sessions for members training for fitness and enjoyment as well as the fight team. He now runs GFC with Jodie Higson.
+
+      The gym is set up for someone training once a month as well as a professional fighter, with beginner, All Levels, technical and fighter sessions running through the week.
 
       As classes became busier, Luke and Jodie moved GFC into the larger Bright Street Mill gym in 2024. Luke refurbished the space with practical help from members and support from GFC's brand partner, InFightStyle.
 

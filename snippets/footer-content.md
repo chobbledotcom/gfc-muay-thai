@@ -1,15 +1,5 @@
 ---
 name: Footer Content
-blocks:
-  - type: socials
-    directory: instagram-posts
-    horizontal: true
-    dark: true
-    compact: true
-    intro_content: |
-      ## Latest from Instagram
-
-      Recent posts from [GFC Muay Thai on Instagram](https://www.instagram.com/gfcmuaythai/).
 ---
 
 <div class="footer-grid">

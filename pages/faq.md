@@ -17,7 +17,7 @@ blocks:
 
       Come in comfortable sportswear, bring some water and be ready to learn. We can help with the rest.
 
-      These are questions we hear every week.
+      Below are some of the questions we get week in, week out and have done for the 29 years we have been open.
     button:
       text: Book a trial
       href: /timetable/

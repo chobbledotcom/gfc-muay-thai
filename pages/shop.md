@@ -24,7 +24,7 @@ blocks:
     intro_content: |
       ## InFightStyle at GFC
 
-      InFightStyle is GFC's brand partner, and we use its equipment throughout the gym.
+      We chose InFightStyle as GFC's brand partner and use its equipment throughout the gym.
     image_aspect_ratio: "3/4"
     items:
       - image: /images/infightstyle-classic-boxing-glove.jpg
