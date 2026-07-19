@@ -5,7 +5,6 @@ redirect_from:
   - /forthcomingevents/
 meta_title: Events | GFC Muay Thai
 meta_description: Forthcoming GFC Muay Thai event details will be published here.
-no_index: true
 eleventyNavigation:
   key: Events
   order: 5

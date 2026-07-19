@@ -5,7 +5,6 @@ redirect_from:
   - /membersarea/
 meta_title: Members' Area | GFC Muay Thai
 meta_description: Access the GFC Muay Thai members' app and account support.
-no_index: true
 eleventyNavigation:
   key: Members' Area
   order: 10
