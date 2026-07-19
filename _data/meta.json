@@ -1,7 +1,7 @@
 {
 	"language": "en-GB",
 	"organization": {
-		"description": "One of the North West's longest-running and most successful Muay Thai gyms, welcoming children, adult beginners and experienced fighters.",
+		"description": "Muay Thai classes in Bury for juniors, teens and adults, from complete beginners to experienced fighters.",
 		"founders": [
 			{
 				"name": "Darren Phillips"
@@ -19,7 +19,6 @@
 				"telephone": "+44-7931-239316",
 				"email": "luke@gfcmuaythai.co.uk",
 				"contactType": "customer service",
-				"areaServed": "GB",
 				"availableLanguage": ["English"]
 			}
 		]

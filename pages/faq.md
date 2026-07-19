@@ -1,7 +1,7 @@
 ---
 name: FAQs
 permalink: /faq/
-meta_title: FAQs | GFC Muay Thai
+meta_title: "Starting Muay Thai: FAQs | GFC Muay Thai"
 meta_description: Answers to common questions about starting Muay Thai at GFC in Bury.
 eleventyNavigation:
   key: FAQs
@@ -11,7 +11,7 @@ blocks:
     compact: true
     subtitle: Your first session starts here
     content: |
-      # New to Muay Thai?
+      # Starting Muay Thai at GFC in Bury
 
       You do not need experience, specialist equipment or a competition goal to start training at GFC.
 

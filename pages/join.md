@@ -1,7 +1,8 @@
 ---
 name: Join Now
 permalink: /join/
-meta_title: Join | GFC Muay Thai
+meta_title: Muay Thai Memberships and Prices in Bury | GFC
+meta_description: Compare monthly memberships and drop-in prices for junior, teen and adult Muay Thai classes at GFC in Bury.
 eleventyNavigation:
   key: Join Now
   order: 9

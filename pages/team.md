@@ -4,8 +4,8 @@ permalink: /team/
 redirect_from:
   - /meettheteam/
   - /teammember/
-meta_title: Our Team | GFC Muay Thai
-meta_description: Meet the GFC Muay Thai coaching team in Bury.
+meta_title: Muay Thai Coaches in Bury | GFC Muay Thai
+meta_description: Meet GFC's Muay Thai coaches in Bury, including coaches with competition experience and time spent training in Thailand.
 eleventyNavigation:
   key: Our team
   order: 4
@@ -14,7 +14,7 @@ blocks:
     compact: true
     subtitle: Experience behind every session
     content: |
-      # Built on Muay Thai
+      # GFC Muay Thai coaches in Bury
 
       Across generations of training, GFC has developed champions and experienced fighters while helping beginners build confidence.
 

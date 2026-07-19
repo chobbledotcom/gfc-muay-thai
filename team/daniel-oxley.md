@@ -2,6 +2,8 @@
 name: Daniel Oxley
 order: 6
 subtitle: Coach
+meta_title: Daniel Oxley | GFC Muay Thai Coach in Bury
+meta_description: Daniel Oxley has more than ten years of Muay Thai experience and won all three fights during a three-month stay in Thailand.
 thumbnail: /images/danniel-oxley.jpg
 permalink: /team/daniel-oxley/
 redirect_from:

@@ -4,7 +4,8 @@ permalink: /class/juniors/
 redirect_from:
   - /class/juniors-2/
   - /class/juniors-9/
-meta_title: Junior Muay Thai Classes in Bury | GFC Muay Thai
+meta_title: Junior & Teen Muay Thai in Bury | GFC Muay Thai
+meta_description: Junior Muay Thai classes in Bury for ages 6-11 and teen classes for ages 12-15, with beginner and advanced training at GFC.
 eleventyNavigation:
   key: Juniors
   parent: Classes
@@ -14,7 +15,7 @@ blocks:
     compact: true
     subtitle: Juniors ages 6-11 and teens ages 12-15
     content: |
-      # Junior Muay Thai
+      # Junior and teen Muay Thai classes in Bury
 
       Our junior and teen sessions give young people a high-energy introduction to Muay Thai while building fitness, confidence and discipline.
 

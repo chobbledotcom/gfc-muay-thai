@@ -3,7 +3,7 @@ name: Contact us
 permalink: /contact/
 redirect_from:
   - /contactus/
-meta_title: Contact Us | GFC Muay Thai
+meta_title: Contact GFC Muay Thai in Bury
 meta_description: Contact GFC Muay Thai in Bury for help choosing a class, personal training or trial sessions.
 schema_type: organization
 eleventyNavigation:
@@ -14,7 +14,7 @@ blocks:
     compact: true
     subtitle: GFC HQ, Bury
     content: |
-      # Come and see the gym
+      # Find GFC Muay Thai in Bury
 
       Find us at **1A Bright Street Mill, Bury, BL9 6AQ**.
 

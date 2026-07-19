@@ -1,6 +1,7 @@
 ---
 name: Ladies-Only Muay Thai Sessions
-meta_title: Ladies-Only Muay Thai Sessions | GFC Muay Thai
+meta_title: GFC Ladies-Only Sessions Launch in Bury
+meta_description: GFC introduced ladies-only Muay Thai sessions at its 5,000+ sq ft Bright Street Mill training facility in Bury.
 date: 2024-10-26
 thumbnail: /images/ladies-only-muay-thai.jpeg
 permalink: /news/ladies-only-muay-thai-sessions/
@@ -54,12 +55,12 @@ blocks:
 
   - type: cta
     content: |
-      ## Ready to try a class?
+      ## Current ladies-only class details
 
-      Contact us to enquire about a free trial in a supportive, women-only environment.
+      See the current age group, class information and how to arrange a trial.
     button:
-      text: Enquire about a trial
-      href: /contact/
+      text: View ladies-only classes
+      href: /class/ladies-only/
       variant: secondary
       size: lg
 ---

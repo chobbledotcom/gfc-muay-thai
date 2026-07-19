@@ -3,6 +3,8 @@ name: Kieran Lee
 order: 3
 eleventyExcludeFromCollections: true
 subtitle: Coach
+meta_title: Kieran Lee | GFC Muay Thai Coach in Bury
+meta_description: Kieran Lee has more than 15 years of Muay Thai experience, including living, training and competing in Thailand.
 thumbnail: /images/kieran-lee.jpg
 permalink: /team/kieran-lee/
 redirect_from:

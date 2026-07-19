@@ -2,6 +2,8 @@
 name: Jodie Higson
 order: 3
 subtitle: Coach
+meta_title: Jodie Higson | GFC Muay Thai Coach in Bury
+meta_description: Jodie Higson coaches at GFC and runs the Bright Street Mill gym in Bury with Luke Phillips.
 permalink: /team/jodie-higson/
 blocks:
   - type: markdown

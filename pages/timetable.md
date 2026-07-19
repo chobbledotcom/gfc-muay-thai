@@ -6,7 +6,7 @@ redirect_from:
   - /timetable/0c55dfe2-fbf8-45a6-a543-5ec4c4fe1acf/
   - /timetablebyday/0c55dfe2-fbf8-45a6-a543-5ec4c4fe1acf/
   - /timetablebyage/0c55dfe2-fbf8-45a6-a543-5ec4c4fe1acf/
-meta_title: Muay Thai Class Timetable | GFC Muay Thai
+meta_title: Muay Thai Timetable in Bury | GFC Muay Thai
 meta_description: View GFC Muay Thai's weekly class timetable in Bury and enquire about a free trial session.
 eleventyNavigation:
   key: Timetable
@@ -19,9 +19,9 @@ blocks:
     tint: true
     badge: Free taster classes
     content: |
-      # Muay Thai class timetable
+      # Muay Thai class timetable in Bury
 
-      View our weekly timetable, choose a suitable session and take the first step towards improving your fitness and confidence.
+      See current times for junior, teen, adult, ladies-only and fighter sessions at our Bright Street Mill gym.
 
   - type: features
     dark: true

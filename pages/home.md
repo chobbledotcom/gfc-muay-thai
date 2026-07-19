@@ -51,7 +51,7 @@ blocks:
     content: |
       ## GFC has grown through generations of Muay Thai
 
-      Darren Phillips began training with Master Sken and Sandy Holt in 1983 and established the club that became GFC. Luke Phillips started before he was three, competed unbeaten as an adult and now runs GFC with Jodie Higson.
+      [Darren Phillips](/team/darren-phillips/) began training with Master Sken and Sandy Holt in 1983 and established the club that became GFC. [Luke Phillips](/team/luke-phillips/) started before he was three, competed unbeaten as an adult and now runs GFC with [Jodie Higson](/team/jodie-higson/).
 
       The current Bright Street Mill facility covers more than 5,000 sq ft, with 20 heavy bags, two 16 ft rings and fully matted training areas. InFightStyle is GFC's brand partner, and we use its equipment throughout the gym.
     button:
@@ -126,7 +126,9 @@ blocks:
     name: GFC Muay Thai location
     height: 450
     intro_content: |
-      ## Find us
+      ## Find GFC Muay Thai in Bury
+
+      Our gym is at 1A Bright Street Mill, Bury, BL9 6AQ. The map can help you plan your journey from nearby parts of Greater Manchester, including Ramsbottom, Tottington, Whitefield and Bolton.
 
   - type: cta
     content: |

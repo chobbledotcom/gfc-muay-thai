@@ -4,7 +4,7 @@ permalink: /class/personal-training/
 redirect_from:
   - /class/personal-training-8/
   - /class/personal-training-5/
-meta_title: Personal Muay Thai Training in Bury | GFC Muay Thai
+meta_title: Muay Thai Personal Training in Bury | GFC Muay Thai
 meta_description: One-to-one Muay Thai coaching in Bury for adults and juniors, tailored to technique, fitness and competition goals.
 eleventyNavigation:
   key: Personal Training
@@ -15,7 +15,7 @@ blocks:
     compact: true
     subtitle: One coach. Your goals.
     content: |
-      # Personal Training
+      # Muay Thai personal training in Bury
 
       Take your Muay Thai further with a session built around you. One-to-one coaching gives you time to refine your technique, improve specific areas of fitness or prepare for competition.
 
@@ -48,7 +48,7 @@ blocks:
     left_content: |
       ## Personal training with Kieran or Lewis
 
-      Kieran and Lewis each have more than 15 years of Muay Thai experience, including high-level competition and time spent living, training and fighting in Thailand. Their different styles give students a broad range of technical knowledge to draw from.
+      [Kieran](/team/kieran-lee/) and [Lewis](/team/lewis-george/) each have more than 15 years of Muay Thai experience, including high-level competition and time spent living, training and fighting in Thailand. Their different styles give students a broad range of technical knowledge to draw from.
 
       **Adult, 1 hour: £40**
 
@@ -58,7 +58,7 @@ blocks:
     right_content: |
       ## Personal training with Ryan or Daniel
 
-      Ryan and Daniel each have more than ten years of Muay Thai experience and have lived and competed in Thailand. Each brings his own technical knowledge to help adults and juniors move their training forward.
+      Ryan and [Daniel](/team/daniel-oxley/) offer personal training for adults and juniors. Daniel has more than ten years of Muay Thai experience and won all three of his fights during a three-month stay in Thailand.
 
       **Adult, 1 hour: £35**
 

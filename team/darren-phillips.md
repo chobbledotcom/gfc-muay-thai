@@ -3,6 +3,8 @@ name: Darren Phillips
 order: 2
 eleventyExcludeFromCollections: true
 subtitle: Coach
+meta_title: Darren Phillips | GFC Muay Thai
+meta_description: Darren Phillips began Muay Thai in 1983 and established the club that became GFC, drawing on decades of coaching and competition experience.
 thumbnail: /images/darren-phillips.jpg
 permalink: /team/darren-phillips/
 redirect_from:

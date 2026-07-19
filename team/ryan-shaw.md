@@ -2,6 +2,7 @@
 name: Ryan Shaw
 order: 4
 subtitle: Coach
+no_index: true
 permalink: /team/ryan-shaw/
 blocks:
   - type: markdown

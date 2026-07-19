@@ -1,6 +1,7 @@
 ---
 name: The GFC Muay Thai Website Launch
-meta_title: The GFC Muay Thai Website Launch
+meta_title: The New GFC Muay Thai Website
+meta_description: GFC's website brings together current Muay Thai class information, coaching profiles, timetables and gym news from Bury.
 date: 2024-10-26
 thumbnail: /images/new-website.png
 permalink: /news/new-website/
@@ -28,7 +29,7 @@ blocks:
 
   - type: cta
     content: |
-      ## Start your Muay Thai journey
+      ## Find the right GFC class
 
       GFC is a community for experienced fighters and complete beginners alike.
     button:

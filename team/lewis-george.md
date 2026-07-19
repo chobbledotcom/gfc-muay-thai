@@ -2,6 +2,8 @@
 name: Lewis George
 order: 2
 subtitle: Coach
+meta_title: Lewis George | GFC Muay Thai Coach in Bury
+meta_description: Lewis George started training at GFC aged five and has more than 15 years of Muay Thai experience, including fighting in Thailand.
 thumbnail: /images/lewis-george.jpg
 permalink: /team/lewis-george/
 redirect_from:

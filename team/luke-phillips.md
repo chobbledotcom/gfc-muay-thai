@@ -2,6 +2,8 @@
 name: Luke Phillips
 order: 1
 subtitle: Coach
+meta_title: Luke Phillips | GFC Muay Thai Coach in Bury
+meta_description: Luke Phillips has more than 25 years of Muay Thai experience and now coaches full-time and runs GFC in Bury with Jodie Higson.
 thumbnail: /images/luke-philips.jpg
 permalink: /team/luke-phillips/
 redirect_from:

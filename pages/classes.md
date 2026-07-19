@@ -5,16 +5,17 @@ redirect_from:
   - /classes/
   - /class/tiny-thais/
   - /class/tiny-thais-1/
-meta_title: Classes | GFC Muay Thai
+meta_title: Find a Muay Thai Class in Bury | GFC Muay Thai
+meta_description: Compare junior, teen, adult, ladies-only and one-to-one Muay Thai training at GFC's Bright Street Mill gym in Bury.
 eleventyNavigation:
   key: Classes
   order: 3
 blocks:
   - type: image-cards
     intro_content: |
-      # Find your class
+      # Muay Thai classes in Bury
 
-      Start from scratch, sharpen your technique or train towards a specific goal. Every GFC session gives the same attention to strong fundamentals.
+      Choose the class for your age and experience. You can start from scratch, work on your technique or train towards competition, with the same attention to strong fundamentals in every session.
     image_aspect_ratio: "3/4"
     items:
       - image: /images/junior-roundhouse-kick-padwork.jpg

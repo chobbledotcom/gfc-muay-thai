@@ -3,7 +3,7 @@ name: News
 permalink: /news/
 redirect_from:
   - /newslist/
-meta_title: News | GFC Muay Thai
+meta_title: GFC Muay Thai News | Bury
 meta_description: News and updates from GFC Muay Thai in Bury.
 eleventyNavigation:
   key: News
@@ -12,6 +12,6 @@ blocks:
   - type: items
     collection: news
     intro_content: |
-      # News
+      # GFC Muay Thai news
     image_aspect_ratio: "4/3"
 ---

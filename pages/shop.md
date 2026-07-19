@@ -4,6 +4,7 @@ permalink: /shop/
 redirect_from:
   - /class/muay-thai-shop-uk-6/
 meta_title: GFC Muay Thai Shop
+meta_description: Shop for InFightStyle Muay Thai gloves, shorts and training equipment through GFC Muay Thai in Bury.
 blocks:
   - type: image-background
     image: /images/pro-shop-banner.jpg
