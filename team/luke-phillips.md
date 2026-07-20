@@ -4,9 +4,10 @@ order: 1
 subtitle: Coach
 meta_title: Luke Phillips | GFC Muay Thai Coach in Bury
 meta_description: Luke Phillips has more than 25 years of Muay Thai experience and now coaches full-time and runs GFC in Bury with Jodie Higson.
-thumbnail: /images/luke-philips.jpg
+thumbnail: /images/luke-phillips.jpg
 permalink: /team/luke-phillips/
 redirect_from:
+  - /team/luke-philips/
   - /teammember/luke-philips/
   - /teammember/luke-phillips/
 blocks:
@@ -19,7 +20,7 @@ blocks:
       Luke Phillips grew up in Muay Thai gyms and began training before he was three. He had his first fight at seven, won multiple titles as a junior and remained unbeaten during his adult fights. He now has more than 25 years of Muay Thai experience.
 
       Across around five trips, Luke spent roughly nine months living and training alongside Thai fighters at camps in Thailand. After injuries, infections and a knee operation, he stopped competing and focused on coaching. He has also worked as a referee and judge at ONE Championship, Hitman Fight League and Yokkao.
-    figure_src: /images/luke-philips.jpg
+    figure_src: /images/luke-phillips.jpg
     figure_alt: Luke Phillips standing beside a Muay Thai fighter at a boxing ring
 
   - type: split-image
@@ -41,7 +42,7 @@ blocks:
       text: Explore junior classes
       href: /class/juniors/
       variant: secondary
-    figure_src: /images/luke-philips-junior-knee-drill.jpg
+    figure_src: /images/luke-phillips-junior-knee-drill.jpg
     figure_alt: Luke Phillips demonstrates a knee drill with a young student during a children's Muay Thai class
 
   - type: split-image
@@ -55,6 +56,6 @@ blocks:
       text: Train one-to-one with Luke
       href: /class/personal-training/
       variant: secondary
-    figure_src: /images/luke-philips-focus-mitt-training.jpg
+    figure_src: /images/luke-phillips-focus-mitt-training.jpg
     figure_alt: Luke Phillips practises a punch against a focus mitt held by a training partner
 ---

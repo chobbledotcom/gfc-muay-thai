@@ -3,11 +3,11 @@ name: Luke Phillips, From GFC's Youngest Champion to Coach
 meta_title: Luke Phillips, From GFC's Youngest Champion to Coach | GFC Muay Thai
 meta_description: A 2006 Bolton News report shows Luke Phillips winning his first junior title at GFC Muay Thai, where he now coaches and runs the gym with Jodie Higson.
 date: 2006-02-09
-thumbnail: /images/luke-philips-coaching-push-kick.jpg
+thumbnail: /images/luke-phillips-coaching-push-kick.jpg
 permalink: /news/luke-gets-his-kicks-from-thai/
 blocks:
   - type: image-background
-    image: /images/luke-philips-coaching-push-kick.jpg
+    image: /images/luke-phillips-coaching-push-kick.jpg
     image_alt: Luke Phillips coaching a push kick at GFC Muay Thai
     tint: true
     content: |

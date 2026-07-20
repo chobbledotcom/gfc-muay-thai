@@ -24,7 +24,7 @@ blocks:
       text: View the timetable
       href: /timetable/
       variant: secondary
-    figure_src: /images/luke-philips-junior-knee-drill.jpg
+    figure_src: /images/luke-phillips-junior-knee-drill.jpg
     figure_alt: Luke Phillips demonstrates a knee drill with a young student during a children's Muay Thai class
 
   - type: gallery
@@ -62,7 +62,7 @@ blocks:
       ## Strong foundations, safe progress
 
       Good coaching is about more than combinations. Our team keeps the activities varied and the class moving so juniors stay involved while learning the techniques properly.
-    figure_src: /images/luke-philips-junior-floor-stretch.jpg
+    figure_src: /images/luke-phillips-junior-floor-stretch.jpg
     figure_alt: Luke Phillips helps a junior student through a floor stretching exercise during class
 
   - type: cta

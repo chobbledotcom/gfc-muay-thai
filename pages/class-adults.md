@@ -23,7 +23,7 @@ blocks:
       text: View the timetable
       href: /timetable/
       variant: secondary
-    figure_src: /images/luke-philips-straight-punch-padwork.jpg
+    figure_src: /images/luke-phillips-straight-punch-padwork.jpg
     figure_alt: Luke Phillips throws a straight punch into pads held by a training partner
 
   - type: features

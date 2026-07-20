@@ -20,7 +20,7 @@ blocks:
       Take your Muay Thai further with a session built around you. One-to-one coaching gives you time to refine your technique, improve specific areas of fitness or prepare for competition.
 
       Every session is adjusted to your experience, pace and priorities, so beginners and experienced fighters can both make useful progress.
-    figure_src: /images/luke-philips-catching-push-kick.jpg
+    figure_src: /images/luke-phillips-catching-push-kick.jpg
     figure_alt: Luke Phillips catches a student's push kick while coaching Muay Thai technique
 
   - type: split-image
@@ -40,7 +40,7 @@ blocks:
       **Junior, 45 minutes: £40**
 
       **Additional person: £10**
-    figure_src: /images/luke-philips-straight-punch-padwork.jpg
+    figure_src: /images/luke-phillips-straight-punch-padwork.jpg
     figure_alt: Luke Phillips throws a straight punch into pads held by a training partner
 
   - type: split-full
@@ -84,6 +84,6 @@ blocks:
       text: Ask about availability
       href: /contact/
       variant: secondary
-    figure_src: /images/luke-philips-student-glove-fitting.jpg
+    figure_src: /images/luke-phillips-student-glove-fitting.jpg
     figure_alt: Luke Phillips watches as a Muay Thai student tightens a white boxing glove before training
 ---
