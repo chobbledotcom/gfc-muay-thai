@@ -18,18 +18,18 @@ blocks:
       Choose the class for your age and experience. You can start from scratch, work on your technique or train towards competition, with the same attention to strong fundamentals in every session.
     image_aspect_ratio: "4/3"
     items:
-      - image: /images/girls-muay-thai-partner-drill.jpg
-        thumbnail: /images/girls-muay-thai-partner-drill.jpg
+      - image: /images/luke-philips-junior-knee-drill.jpg
+        thumbnail: /images/luke-philips-junior-knee-drill.jpg
         name: Junior Classes, Ages 6-11
         description: Fun, active sessions that change activities regularly to keep children involved while they learn the fundamentals of Muay Thai.
         link: /class/juniors/
-      - image: /images/junior-students-gfc-boxing-ring.jpg
-        thumbnail: /images/junior-students-gfc-boxing-ring.jpg
+      - image: /images/junior-roundhouse-kick-padwork.jpg
+        thumbnail: /images/junior-roundhouse-kick-padwork.jpg
         name: Teen Classes, Ages 12-15
         description: Two weekly All Levels classes, plus two Advanced and Fighters sessions for experienced students and those preparing to compete.
         link: /class/teens/
-      - image: /images/adult-students-gfc-boxing-ring.jpg
-        thumbnail: /images/adult-students-gfc-boxing-ring.jpg
+      - image: /images/luke-philips-straight-punch-padwork.jpg
+        thumbnail: /images/luke-philips-straight-punch-padwork.jpg
         name: Adult Classes, Ages 15+
         description: Begin with Muay Thai Basics, join an All Levels class or progress into advanced technical work and optional sparring.
         link: /class/adults/

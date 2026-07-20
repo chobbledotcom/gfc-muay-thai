@@ -24,8 +24,8 @@ blocks:
       text: View the timetable
       href: /timetable/
       variant: secondary
-    figure_src: /images/girls-muay-thai-partner-drill.jpg
-    figure_alt: A coach watches two girls practise kicks together during a children's Muay Thai class
+    figure_src: /images/luke-philips-junior-knee-drill.jpg
+    figure_alt: Luke Phillips demonstrates a knee drill with a young student during a children's Muay Thai class
 
   - type: gallery
     dark: true

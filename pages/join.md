@@ -32,8 +32,8 @@ blocks:
       text: Explore junior classes
       href: /class/juniors/
       variant: secondary
-    figure_src: /images/junior-boxer-blue-gloves-portrait.jpg
-    figure_alt: A young GFC Muay Thai student wearing blue camouflage gloves and white Thai boxing shorts
+    figure_src: /images/luke-philips-junior-knee-drill.jpg
+    figure_alt: Luke Phillips demonstrates a knee drill with a young student during a children's Muay Thai class
 
   - type: split-image
     dark: true
@@ -56,8 +56,8 @@ blocks:
       text: Explore adult classes
       href: /class/adults/
       variant: secondary
-    figure_src: /images/muay-thai-student-gym-portrait.jpg
-    figure_alt: A Muay Thai student in a white T-shirt and turquoise Thai boxing shorts standing with his arms folded in the gym
+    figure_src: /images/luke-philips-straight-punch-padwork.jpg
+    figure_alt: Luke Phillips throws a straight punch into pads held by a training partner
 
   - type: iframe-embed
     src: https://s-gfc.ammhub.com/

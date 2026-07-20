@@ -21,8 +21,8 @@ blocks:
       text: View the timetable
       href: /timetable/
       variant: secondary
-    figure_src: /images/junior-students-gfc-boxing-ring.jpg
-    figure_alt: Three teen Muay Thai students taking a break in and beside the GFC boxing ring
+    figure_src: /images/junior-roundhouse-kick-padwork.jpg
+    figure_alt: Luke Phillips watches two teen students practise a roundhouse kick with body pads
 
   - type: features
     dark: true
