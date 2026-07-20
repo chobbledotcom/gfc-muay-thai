@@ -487,6 +487,17 @@ body.design-system {
     .right {
       min-height: 22rem;
     }
+
+    &.primary-left .left,
+    &.primary-right .right {
+      a:not(.btn) {
+        color: var(--color-contrast-text);
+
+        &:hover {
+          color: #fff;
+        }
+      }
+    }
   }
 
   .contact-form input,
