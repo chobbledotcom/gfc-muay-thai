@@ -22,7 +22,13 @@
 	"horizontal_nav": true,
 	"template_repo_url": "https://git.chobble.com/chobble/chobble-client",
 	"cms_config": {
-		"collections": ["pages", "team", "news", "reviews"],
+		"collections": [
+			"pages",
+			"snippets",
+			"team",
+			"news",
+			"reviews"
+		],
 		"features": {
 			"permalinks": true,
 			"redirects": true,
@@ -33,7 +39,7 @@
 			"features": false,
 			"external_purchases": false,
 			"add_ons": false,
-			"event_locations_and_dates": false,
+			"event_locations_and_dates": true,
 			"no_index": true,
 			"keywords": false,
 			"parent_categories": false
