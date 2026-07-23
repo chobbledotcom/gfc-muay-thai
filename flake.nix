@@ -32,6 +32,7 @@
             packages = with pkgs; [
               bun
               vips
+              imagemagick
               stdenv.cc.cc.lib
               bunScripts
             ];

@@ -1,3 +1,33 @@
+{%- comment -%}
+  Favicon links and Open Graph fallbacks. The template's head-meta.html
+  already emits og:type / og:title / og:description / og:url / og:image and
+  twitter:card per page, so we don't duplicate those. Here we add:
+    - favicon / apple-touch-icon links (not provided by the template)
+    - og:site_name and og:locale (not emitted by the template)
+    - a fallback og:image + twitter:image pointing at the 1200x628 banner in
+      images/social-share.png, only for pages that have no page-level image
+{%- endcomment -%}
+
+{%- assign share_image = "/images/social-share.png" -%}
+{%- assign share_image_url = site.url | append: share_image -%}
+
+<meta property="og:site_name" content="{{ site.name | escape }}">
+<meta property="og:locale" content="{{ meta.language | default: "en-GB" | replace: "-", "_" }}">
+
+{%- unless socialMeta.image -%}
+  <meta property="og:image" content="{{ share_image_url }}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="628">
+  <meta property="og:image:alt" content="{{ site.name | escape }}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="{{ share_image_url }}">
+{%- endunless -%}
+
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
 <script
   data-goatcounter="https://analytics.gfcmuaythai.co.uk/count"
   async
