@@ -30,13 +30,18 @@ blocks:
     content: |
       ## Contact us
 
-      Our [FAQs](/faq/) cover the questions we hear most often. If your question is not answered there, contact us by email or phone.
+      Our [FAQs](/faq/) cover the questions we hear most often. If your question is not answered there, get in touch using the form below, by email or by phone.
 
       [luke@gfcmuaythai.co.uk](mailto:luke@gfcmuaythai.co.uk)
 
       [07931 239316](tel:07931239316)
 
       GFC HQ, 1A Bright Street Mill, Bury, BL9 6AQ
+  - type: contact-form
+    content: |
+      ## Send us a message
+
+      Fill in the form and we'll get back to you. If you'd rather talk to someone, call or text the number above.
   - type: iframe-embed
     src: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1183.8583886890578!2d-2.2860068958531543!3d53.59851500411595!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487ba4cfabf7bdf9%3A0x2718291cec607d4!2sGFC%20Muay%20Thai!5e0!3m2!1sen!2suk!4v1727119999220!5m2!1sen!2suk
     name: GFC Muay Thai location
