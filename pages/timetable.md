@@ -67,8 +67,8 @@ blocks:
 
       - name: Saturday
         description: |+
-          - **10:30-12:00:** Adult Sparring (ages 15+)
-          - **12:00-13:00:** Adult all levels (ages 15+)
+          - **10:30-11:30:** Adult Sparring (ages 15+)
+          - **11:30-12:30:** Adult all levels (ages 15+)
 
     intro_content: |+
       ## Weekly timetable
