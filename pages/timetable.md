@@ -35,31 +35,31 @@ blocks:
       - name: Monday
         description: |+
           - **09:00-10:30:** Fighters Class (invite only)
-          - **17:00-17:45:** Junior Muay Thai, ages 6-11
-          - **17:45-18:45:** Teen Muay Thai, ages 12-15
-          - **19:00-20:15:** Adult All Levels, ages 15+
+          - **17:00-17:45:** Junior Muay Thai (ages 6-11)
+          - **17:45-18:45:** Teen Muay Thai (ages 12-15)
+          - **19:00-20:15:** Adult All Levels (ages 15+)
 
       - name: Tuesday
         description: |+
           - **09:00-10:30:** Fighters Class (invite only)
-          - **17:15-18:45:** Kids and Teens Advanced / Fighters, ages 6-15
-          - **19:00-20:00:** Adult Advanced Tech, ages 15+
+          - **17:15-18:45:** Kids and Teens Advanced / Fighters (ages 6-15)
+          - **19:00-20:00:** Adult Advanced Tech (ages 15+)
           - **20:15-21:15:** Ladies-Only Muay Thai
 
       - name: Wednesday
         description: |+
           - **09:00-10:30:** Fighters Class (invite only)
-          - **17:15-18:45:** Kids and Teens Advanced / Fighters, ages 6-15
-          - **19:00-20:00:** Adult All Levels, ages 15+
-          - **20:00-20:30:** Adult Clinch / Sparring, ages 15+
+          - **17:15-18:45:** Kids and Teens Advanced / Fighters (ages 6-15)
+          - **19:00-20:00:** Adult All Levels (ages 15+)
+          - **20:00-20:30:** Adult Clinch / Sparring (ages 15+)
 
       - name: Thursday
         description: |+
           - **09:00-10:30:** Fighters Class (invite only)
-          - **17:00-17:45:** Junior Muay Thai, ages 6-11
-          - **17:45-18:45:** Teen Muay Thai, ages 12-15
-          - **19:00-20:00:** Adult Beginners / Muay Thai Basics, ages 15+
-          - **20:00-20:30:** Freestyle Pad Work, ages 15+
+          - **17:00-17:45:** Junior Muay Thai  (ages 6-11)
+          - **17:45-18:45:** Teen Muay Thai (ages 12-15) 
+          - **19:00-20:00:** Adult Beginners / Muay Thai Basics (ages 15+)
+          - **20:00-20:30:** Freestyle Pad Work (ages 15+)
 
       - name: Friday
         description: |+
@@ -67,7 +67,8 @@ blocks:
 
       - name: Saturday
         description: |+
-          - **10:30-12:00:** Adult Sparring, ages 15+
+          - **10:30-12:00:** Adult Sparring (ages 15+)
+          - **12:00-13:00:** Adult all levels (ages 15+)
 
     intro_content: |+
       ## Weekly timetable
