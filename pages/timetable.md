@@ -37,7 +37,7 @@ blocks:
           - **09:00-10:30:** Fighters Class (invite only)
           - **17:00-17:45:** Junior Muay Thai (ages 6-11)
           - **17:45-18:45:** Teen Muay Thai (ages 12-15)
-          - **19:00-20:15:** Adult All Levels (ages 15+)
+          - **19:00-20:00:** Adult All Levels (ages 15+)
 
       - name: Tuesday
         description: |+
