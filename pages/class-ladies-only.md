@@ -38,10 +38,12 @@ blocks:
 
   - type: cta
     content: |
-      ## Plan your first Muay Thai session
+      ## Book a ladies-only session
+
+      Check the [timetable](/timetable/) for the current class time, then book your place online.
     button:
-      text: View timetable
-      href: /timetable/
+      text: Book a class
+      href: /book/
       variant: secondary
       size: lg
 ---

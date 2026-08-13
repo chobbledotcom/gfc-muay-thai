@@ -86,4 +86,15 @@ blocks:
       variant: secondary
     figure_src: /images/luke-phillips-student-glove-fitting.jpg
     figure_alt: Luke Phillips watches as a Muay Thai student tightens a white boxing glove before training
+
+  - type: cta
+    content: |
+      ## Book a group class
+
+      Personal training is arranged with your coach. Group classes can be booked online at any time.
+    button:
+      text: Book a class
+      href: /book/
+      variant: secondary
+      size: lg
 ---

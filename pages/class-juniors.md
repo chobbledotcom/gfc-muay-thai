@@ -67,10 +67,12 @@ blocks:
 
   - type: cta
     content: |
-      ## Plan your first Muay Thai session
+      ## Book your child's first session
+
+      Check the [timetable](/timetable/) for junior class times, then book their place online.
     button:
-      text: View timetable
-      href: /timetable/
+      text: Book a class
+      href: /book/
       variant: secondary
       size: lg
 ---

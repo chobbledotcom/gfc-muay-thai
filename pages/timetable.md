@@ -98,6 +98,16 @@ blocks:
     figure_alt: A young GFC Muay Thai student in blue gloves and a black and red
       training shirt
   - type: cta
+    content: |
+      ## Book a class
+
+      Once you know which session suits you, book your place online.
+    button:
+      text: Book a class
+      href: /book/
+      variant: secondary
+      size: lg
+  - type: cta
     dark: false
     compact: false
     content: >-

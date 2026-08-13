@@ -64,7 +64,7 @@ blocks:
     content: |
       ## Enrol online
 
-      Use our secure membership form to set up your GFC account.
+      Use our secure membership form to set up your GFC account. You will use the same account to [book your classes](/book/).
 
   - type: link-button
     compact: true

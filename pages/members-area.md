@@ -28,4 +28,15 @@ blocks:
       variant: secondary
     figure_src: /images/members-app.png
     figure_alt: Diagram showing GFC Muay Thai members' app features, including sign-in, personal details, licences, grading history and events
+
+  - type: cta
+    content: |
+      ## Book your next class
+
+      Class bookings go through the same system you use to manage your membership.
+    button:
+      text: Book a class
+      href: /book/
+      variant: secondary
+      size: lg
 ---

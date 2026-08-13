@@ -13,4 +13,15 @@ blocks:
       # What our members say
 
       Read what members say about starting, training regularly and developing their Muay Thai at GFC.
+
+  - type: cta
+    content: |
+      ## Train with us
+
+      Check the [timetable](/timetable/) for current class times, then book your place online.
+    button:
+      text: Book a class
+      href: /book/
+      variant: secondary
+      size: lg
 ---

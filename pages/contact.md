@@ -46,4 +46,15 @@ blocks:
     src: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1183.8583886890578!2d-2.2860068958531543!3d53.59851500411595!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487ba4cfabf7bdf9%3A0x2718291cec607d4!2sGFC%20Muay%20Thai!5e0!3m2!1sen!2suk!4v1727119999220!5m2!1sen!2suk
     name: GFC Muay Thai location
     height: 450
+
+  - type: cta
+    content: |
+      ## Already know which class you want?
+
+      You do not need to contact us first. Set up your account and book your place online.
+    button:
+      text: Book a class
+      href: /book/
+      variant: secondary
+      size: lg
 ---

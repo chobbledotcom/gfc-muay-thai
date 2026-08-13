@@ -13,6 +13,7 @@ name: Footer Content
   <div class="footer-links">
     <p class="footer-heading">Train with us</p>
     <ul>
+      <li><a href="/book/">Book a class</a></li>
       <li><a href="/class/">Classes</a></li>
       <li><a href="/timetable/">Timetable</a></li>
       <li><a href="/team/">Meet the team</a></li>
