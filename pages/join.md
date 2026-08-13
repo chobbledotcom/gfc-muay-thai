@@ -59,12 +59,16 @@ blocks:
     figure_src: /images/luke-phillips-straight-punch-padwork.jpg
     figure_alt: Luke Phillips throws a straight punch into pads held by a training partner
 
-  - type: iframe-embed
-    src: https://s-gfc.ammhub.com/
-    name: GFC Muay Thai membership enrolment
-    height: 900
-    intro_content: |
+  - type: markdown
+    compact: true
+    content: |
       ## Enrol online
 
-      Use the secure membership form below to set up your GFC account.
+      Use our secure membership form to set up your GFC account.
+
+  - type: link-button
+    compact: true
+    text: Start your enrolment
+    href: https://s-gfc.ammhub.com/
+    size: lg
 ---
