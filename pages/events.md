@@ -18,4 +18,15 @@ blocks:
       # Events
 
       We share upcoming fight shows, competitions and gym events on [Facebook](https://www.facebook.com/GFCMuayThai/) and [Instagram](https://www.instagram.com/gfcmuaythai/).
+
+  - type: cta
+    content: |
+      ## Train with us in Bury
+
+      Check the [timetable](/timetable/) for current class times, then book your place online.
+    button:
+      text: Book a class
+      href: /book/
+      variant: secondary
+      size: lg
 ---

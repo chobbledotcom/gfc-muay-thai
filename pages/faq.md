@@ -66,4 +66,17 @@ blocks:
         answer: Yes. Adult sessions cost £11.50, or £10 when paying cash at the gym. Junior and teen sessions cost £7, or £6 in cash. Monthly memberships are also available if you train regularly.
       - question: Can I book private one-to-one training?
         answer: Yes. We offer [personal training](/class/personal-training/) for adults and juniors, with sessions adapted to your experience and goals.
+      - question: How do I book a class?
+        answer: Memberships, drop-ins and class bookings all go through the same online system. Set up your account once, then [book a class](/book/) whenever you want to train.
+
+  - type: cta
+    content: |
+      ## Ready to start?
+
+      Check the [timetable](/timetable/) for current class times, then book your place online.
+    button:
+      text: Book a class
+      href: /book/
+      variant: secondary
+      size: lg
 ---

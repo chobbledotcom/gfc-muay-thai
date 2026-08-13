@@ -40,10 +40,12 @@ blocks:
 
   - type: cta
     content: |
-      ## Plan your first Muay Thai session
+      ## Book your first adult session
+
+      Check the [timetable](/timetable/) for adult class times, then book your place online.
     button:
-      text: View timetable
-      href: /timetable/
+      text: Book a class
+      href: /book/
       variant: secondary
       size: lg
 ---
