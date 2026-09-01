@@ -152,7 +152,7 @@ blocks:
 
       - name: Saturday
         description: |+
-          - **10:30-11:30 - All levels pad work** 
+          - **10:30-11:30 -** All levels pad work**** (ages 15+)
           - **11:30-12:30 -**  Adult Sparring (ages 15+)
 
     intro_content: |+
@@ -171,9 +171,9 @@ blocks:
         label: Adult standard, two sessions per week
       - value: £65
         label: Adult unlimited, per month
-      - value: £11.50
+      - value: £11.00
         label: Adult drop-in (£10 cash), per class
-      - value: £7
+      - value: £6.50
         label: Junior and teen drop-in (£6 cash), per class
     intro_content: |+
       ## Membership and drop-in prices
