@@ -67,8 +67,8 @@ blocks:
 
       - name: Saturday
         description: |+
-          - **10:30-11:30:** Adult Sparring (ages 15+)
-          - **11:30-12:30:** Adult all levels (ages 15+)
+          - **10:30-11:30:** Adult all level padwork  (ages 15+)
+          - **11:30-12:30:** Adult sparring (ages 15+)
 
     intro_content: |+
       ## Weekly timetable
@@ -98,7 +98,9 @@ blocks:
     figure_alt: A young GFC Muay Thai student in blue gloves and a black and red
       training shirt
   - type: cta
-    content: |
+    dark: false
+    compact: false
+    content: |-
       ## Book a class
 
       Once you know which session suits you, book your place online.
